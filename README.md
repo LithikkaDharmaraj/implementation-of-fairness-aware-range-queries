@@ -1,4 +1,4 @@
-**📊 Fairness-Aware Range Queries for Unbiased Data**
+## 📊 Fairness-Aware Range Queries for Unbiased Data
 
 **🚀 Overview:**
 
