@@ -1,0 +1,3501 @@
+category,exam1_score,exam2_score,student_name
+Category1,7,105,Aaron Little
+Category2,12,103,Gene Lubowitz
+Category1,38,164,Jose Ernser
+Category2,79,105,Mary Brekke
+Category1,71,129,Dr. Maryann Ernser
+Category2,59,141,Bob Dare
+Category1,50,154,Freda Jacobs
+Category2,89,104,Alyssa Krajcik
+Category1,50,128,Stella Okuneva-Marvin
+Category2,34,119,Billy Hermiston
+Category1,33,194,Sharon Jerde
+Category2,63,106,Drew Stokes
+Category1,25,124,Earl Koepp
+Category2,84,150,Gordon McCullough
+Category1,48,186,Eric Stehr
+Category2,56,116,Billie Lowe DDS
+Category1,95,194,Doug Beahan
+Category2,19,113,Priscilla Pouros
+Category1,14,127,Jeannie Hayes
+Category2,44,114,Dr. Noel Krajcik
+Category1,24,196,Traci Vandervort
+Category2,86,123,Pete Smitham
+Category1,61,159,Cameron Schimmel
+Category2,100,135,Larry Torphy
+Category1,9,198,Tina Kessler
+Category2,70,154,Morris Batz
+Category1,25,200,Marlon Bernhard
+Category2,50,134,Dr. Arlene Dickinson-Kub
+Category1,22,133,Betty Rutherford
+Category2,15,181,Barry Gulgowski PhD
+Category1,53,161,Sherry Christiansen
+Category2,58,189,Benjamin Considine
+Category1,17,148,Loretta Abshire
+Category2,88,152,Delia Jones-Kulas
+Category1,22,173,Mr. George Hickle
+Category2,39,169,Hope Walker
+Category1,92,153,Eileen Beier I
+Category2,85,170,Adam Schuster
+Category1,92,196,Kristy Sauer I
+Category2,96,173,Harold Ruecker
+Category1,11,161,Jan Gutmann
+Category2,55,167,Jaime Haag
+Category1,25,130,Deborah Cole
+Category2,69,102,Andrea Witting
+Category1,68,111,Devin Wisozk
+Category2,89,162,Celia Wolff-Ernser
+Category1,30,104,Claude Torp
+Category2,51,162,Horace Sanford
+Category1,42,138,Erika McLaughlin
+Category2,64,110,Mrs. Helen Wuckert
+Category1,20,106,Dr. Lionel Hagenes
+Category2,47,105,Dean Marquardt
+Category1,26,177,Claire Powlowski
+Category2,36,173,Dr. Cheryl White
+Category1,92,156,Eugene Feeney
+Category2,43,149,Kim Maggio
+Category1,16,157,Jon Witting
+Category2,48,146,Lorenzo Pagac
+Category1,15,146,Darrin Kreiger IV
+Category2,17,178,Roland Rowe
+Category1,42,153,Dwight Robel
+Category2,57,182,Eunice Mayert
+Category1,14,161,Jackie Crooks
+Category2,75,161,Kristie Sipes
+Category1,13,135,Clara White
+Category2,76,180,Ashley Keeling
+Category1,44,126,Melody Schmitt
+Category2,4,197,Jeff Medhurst
+Category1,2,116,Dr. Johnnie Koch
+Category2,18,119,Bernice Labadie
+Category1,69,148,Gerald Dach-Conn
+Category2,58,182,Alicia Weber
+Category1,84,107,Jorge Zieme
+Category2,7,114,Myra Hickle
+Category1,62,161,Ms. Veronica Maggio
+Category2,13,142,Catherine Haag
+Category1,24,122,Lorena Kohler
+Category2,50,113,Leigh West
+Category1,41,199,Ora Will PhD
+Category2,15,108,Lucas Gleason
+Category1,73,120,Josefina Franecki
+Category2,66,184,Dr. Leonard Ferry
+Category1,7,130,Darrell Klein V
+Category2,24,161,Sidney Abbott
+Category1,17,134,Woodrow Rice Sr.
+Category2,5,157,Darla Bailey
+Category1,91,117,Kristen Kunde
+Category2,62,177,Tammy Schiller
+Category1,89,147,Kelli Baumbach
+Category2,11,186,Arlene Strosin
+Category1,33,109,Dr. Carole Connelly
+Category2,33,180,Ruben Gutmann
+Category1,97,113,Keith Smith
+Category2,1,106,Jimmie O'Reilly
+Category1,53,145,Sean Goldner
+Category2,8,174,Jean Ledner
+Category1,65,132,Brooke Kuhn
+Category2,41,106,Ollie Hills
+Category1,1,168,Kristie Osinski
+Category2,73,109,Andy Gleichner
+Category1,69,198,Elaine Wilkinson Sr.
+Category2,67,137,Miss Mary Mertz-Kautzer
+Category1,28,186,Jaime Adams
+Category2,57,140,Shawna Kautzer
+Category1,83,103,Maurice Haag
+Category2,40,191,Dr. Noel DuBuque
+Category1,92,185,Ricardo Jast
+Category2,8,183,Lee Gusikowski
+Category1,85,108,Stephanie Lehner
+Category2,47,164,Grady Ullrich
+Category1,13,199,Aubrey Hackett
+Category2,98,155,Shannon Sporer Sr.
+Category1,75,141,Angela Bernier
+Category2,78,130,Bobby Howell
+Category1,15,156,Randal Reilly
+Category2,97,139,Mr. Joseph Roberts-Ankunding
+Category1,42,111,Leland Kassulke
+Category2,12,184,Sherman Beer
+Category1,40,123,Darla Ullrich
+Category2,100,180,Norman Effertz
+Category1,23,101,Traci Rosenbaum
+Category2,7,172,Ms. Ella Kilback
+Category1,68,178,Tamara Padberg
+Category2,37,146,Wesley Mosciski MD
+Category1,21,143,Ronald Schmitt
+Category2,97,119,Garry Kuphal
+Category1,36,103,Karl Beahan
+Category2,39,140,Don Hermann
+Category1,92,141,Dr. Gabriel Rolfson
+Category2,84,191,Rose Reichert
+Category1,58,185,Nettie Heller DVM
+Category2,86,130,Angel Orn
+Category1,42,109,Stacy Schumm
+Category2,92,106,Laura Cremin
+Category1,76,168,Heidi Rowe
+Category2,82,143,Holly Kuphal
+Category1,39,102,Zachary Fahey
+Category2,54,123,Brandi Howell
+Category1,83,166,Israel Hagenes DDS
+Category2,21,105,Francis Kirlin
+Category1,26,186,James Herman
+Category2,85,144,Grady Roob
+Category1,93,185,Gregory Boyer
+Category2,90,183,Dr. Dana Blanda
+Category1,15,188,Rafael Ritchie
+Category2,89,153,Pat Reichel
+Category1,58,160,Tina Sipes
+Category2,81,186,Isaac Hamill
+Category1,19,146,Stephen Kerluke
+Category2,78,181,Emily Pacocha
+Category1,36,108,Tanya Turcotte-Sipes
+Category2,59,115,Scott Schneider
+Category1,14,103,Alicia Stark
+Category2,51,158,Pearl Murray DDS
+Category1,25,186,Meghan Schroeder
+Category2,15,156,Donnie Stroman
+Category1,77,176,Kristina Effertz
+Category2,87,111,Henrietta Ankunding MD
+Category1,60,196,Winifred Wiza
+Category2,27,135,Joe Schmitt
+Category1,83,188,Eunice Cremin
+Category2,20,114,Mr. Kevin Cummings
+Category1,74,170,Patty Brakus
+Category2,64,109,Hazel Kemmer
+Category1,45,109,Sylvester Murphy
+Category2,36,172,Mrs. Tanya Deckow
+Category1,46,129,Dr. Stewart McCullough
+Category2,98,159,Gordon Gorczany
+Category1,78,193,Cory Wiza
+Category2,70,197,Mr. Anthony Kuhlman
+Category1,89,103,Johnny Bauch-Gutkowski
+Category2,94,123,Miguel Corkery
+Category1,86,127,Grace Emard
+Category2,50,130,Marlene Gusikowski
+Category1,97,167,Dr. Kent Halvorson
+Category2,22,111,Barry Adams
+Category1,61,145,Jean Fritsch
+Category2,68,107,Candace Feeney
+Category1,13,199,Roy Littel
+Category2,18,172,Mattie Kutch
+Category1,38,169,Erica Rodriguez I
+Category2,21,200,Carmen Boehm-Thompson
+Category1,97,170,Miss Cassandra Goodwin II
+Category2,33,118,Kelli Orn
+Category1,94,197,Frances Dickens
+Category2,80,136,Donna Kohler DDS
+Category1,57,123,Dennis Bernhard
+Category2,30,141,Ms. Whitney Gibson
+Category1,27,153,Miss Jill Boyle MD
+Category2,5,141,Terrance Rodriguez
+Category1,29,145,Carole Steuber
+Category2,82,189,Byron Reilly
+Category1,52,155,Kristine Grant
+Category2,25,120,Garry Berge
+Category1,1,130,Geraldine Balistreri PhD
+Category2,54,191,Evelyn Shields
+Category1,41,123,Larry Hackett
+Category2,73,136,Wilfred Mitchell
+Category1,97,182,Ellis Anderson
+Category2,32,186,Bill Swaniawski
+Category1,63,118,Alexandra Beatty I
+Category2,15,174,Krista Buckridge
+Category1,42,195,Michelle Ernser
+Category2,56,181,Minnie Cormier
+Category1,54,106,Ernest Kuvalis
+Category2,8,164,Katrina Robel
+Category1,57,102,Neil Smith
+Category2,2,170,Gilbert Hirthe
+Category1,30,181,Wilfred Pfannerstill
+Category2,50,180,Ricky Rogahn DVM
+Category1,68,172,Jesus Daugherty
+Category2,10,170,Sam Schumm
+Category1,49,155,Roy Welch
+Category2,7,123,Brad Zieme
+Category1,68,179,Mr. Stephen Gulgowski-Lakin
+Category2,16,133,Walter Lakin
+Category1,58,192,Larry Kovacek
+Category2,74,121,Joanna Marvin
+Category1,52,193,Nicole Pollich
+Category2,41,126,Kurt Kirlin
+Category1,17,153,Hubert Schumm III
+Category2,21,124,Gretchen Cronin
+Category1,80,111,Mr. Leonard Buckridge
+Category2,76,145,Mrs. Alison Gleason
+Category1,35,112,Melissa Brown-Hauck
+Category2,48,119,Josh Hahn
+Category1,59,124,Shane Waters
+Category2,9,198,Miss Nancy Wisozk DDS
+Category1,9,124,Ms. Melba Greenfelder
+Category2,17,115,Dr. Brian Davis
+Category1,47,135,Edwin Hamill
+Category2,54,111,Roxanne Wunsch II
+Category1,3,119,Earl Bahringer
+Category2,29,110,Constance Bergnaum
+Category1,8,132,Maureen Cormier
+Category2,55,147,Shelia Strosin
+Category1,30,110,Jeremiah Bergstrom
+Category2,33,114,Keith Deckow
+Category1,64,147,Darla Nikolaus
+Category2,3,168,Arturo Streich
+Category1,2,185,Terrance Schumm
+Category2,19,142,Kurt Mertz
+Category1,78,184,Omar Mueller
+Category2,32,130,Jean McKenzie
+Category1,82,185,Derrick Mills
+Category2,22,119,Dr. Sophie Stokes
+Category1,82,154,Eleanor Cummings
+Category2,28,156,Priscilla Mayer
+Category1,27,110,Luther Connelly
+Category2,41,146,Eloise Marks
+Category1,69,198,Crystal Davis
+Category2,4,105,Wm Wunsch
+Category1,85,122,Candace Kris
+Category2,43,151,Miss Melissa Heaney
+Category1,17,147,Joann Wisozk
+Category2,51,158,Santos Gleason
+Category1,83,197,Dr. Christy Bauch
+Category2,89,151,Dennis Fadel
+Category1,29,142,Ronald VonRueden
+Category2,11,113,Carlos Osinski
+Category1,57,163,Marlon Fadel DVM
+Category2,73,187,Vincent Vandervort-Larkin
+Category1,40,144,Ray Cummerata
+Category2,76,175,Sylvia Nikolaus
+Category1,90,128,Neal Feil Jr.
+Category2,62,158,Jackie Sanford
+Category1,58,152,Mr. Ray Block
+Category2,37,176,Perry Morar
+Category1,95,141,Dr. Moses Heaney
+Category2,81,118,Joyce Romaguera
+Category1,48,173,Frankie Bartoletti
+Category2,78,177,Miss Wendy Schoen
+Category1,5,107,Andy Kilback
+Category2,87,163,Dana Heller
+Category1,17,117,Denise Hills
+Category2,15,199,Minnie Gottlieb
+Category1,10,176,Lillian Bosco
+Category2,94,149,Camille Jaskolski
+Category1,87,113,Roland Mohr MD
+Category2,41,141,Travis Ruecker
+Category1,36,159,Cathy Cummerata
+Category2,30,194,Marta Orn
+Category1,52,182,Dr. Kirk Howell
+Category2,60,151,Jaime Fadel
+Category1,42,186,Jeremiah Rosenbaum Sr.
+Category2,19,107,Lorena Friesen Sr.
+Category1,58,111,Mrs. Irene Leannon MD
+Category2,81,148,Ian Bode
+Category1,15,178,Margie Yost
+Category2,95,156,Miss Mona Cole
+Category1,50,130,Matt Herman
+Category2,44,173,Casey Nitzsche
+Category1,18,173,Benjamin Huel-Fadel
+Category2,43,198,Ruth Gleichner
+Category1,88,195,Dr. Horace Schamberger
+Category2,58,168,Toni Bogisich
+Category1,77,118,Leroy Tromp
+Category2,2,111,Stephanie Jerde
+Category1,8,154,Maxine Harris
+Category2,95,192,Heidi Crooks
+Category1,76,181,Samuel Morar
+Category2,93,200,Lynette Beer
+Category1,20,182,Joey Mueller
+Category2,44,186,Lawrence Tremblay
+Category1,71,149,Essie Kunze
+Category2,69,184,Lauren Connelly
+Category1,40,198,Mrs. Sylvia Emmerich-Thompson
+Category2,10,169,Tina Powlowski I
+Category1,13,159,Maurice Schultz
+Category2,83,192,Cecelia Marvin
+Category1,25,188,Sheila Little III
+Category2,61,167,Veronica Hagenes Sr.
+Category1,40,144,Darren West
+Category2,89,181,Margaret Schulist
+Category1,15,129,Loren Funk
+Category2,54,122,Randall Beer
+Category1,1,155,Eric Roob II
+Category2,49,120,Doug Gorczany MD
+Category1,87,179,Patsy Wilkinson
+Category2,14,137,Ms. Pat Kshlerin V
+Category1,6,147,Israel Huels
+Category2,64,142,Jasmine Mosciski
+Category1,80,134,Alan Carter
+Category2,50,168,Jeremy Langosh
+Category1,23,183,Marshall Veum
+Category2,34,133,Corey Weissnat
+Category1,90,144,Dr. Ella Bins
+Category2,67,149,Alejandro Crist
+Category1,4,119,Hope Schmitt
+Category2,99,141,Jasmine Shanahan
+Category1,3,191,Guillermo Lynch
+Category2,75,181,Becky Rempel
+Category1,58,135,Lewis Gutkowski
+Category2,22,143,Jodi Boyer
+Category1,81,129,Reginald Auer
+Category2,59,149,Jessie Metz DVM
+Category1,24,146,Tami Jaskolski Jr.
+Category2,89,157,Sally Johnston
+Category1,48,115,Myra Cassin I
+Category2,46,194,Dennis Ritchie
+Category1,69,126,Jeanne Lehner Jr.
+Category2,28,153,Willis Nicolas
+Category1,95,162,Jeffery Schumm
+Category2,44,157,Hattie Considine
+Category1,25,154,Evan Gulgowski
+Category2,68,153,Guadalupe Hirthe
+Category1,2,104,Richard Pfeffer V
+Category2,21,197,Sophie Okuneva
+Category1,96,119,Willie Schuppe
+Category2,90,127,Ruben Wilderman
+Category1,9,107,Jim McKenzie
+Category2,58,135,Gregg Abshire
+Category1,6,146,Rachel Morissette
+Category2,43,133,Peter Koss
+Category1,22,170,Nicholas Hansen
+Category2,75,106,Laurie Huel
+Category1,7,123,Kathy Terry
+Category2,75,167,Wayne Jerde
+Category1,43,104,Garrett Moen
+Category2,71,131,Sonia Braun
+Category1,72,196,Ms. Velma Hudson
+Category2,47,142,Darin Bednar
+Category1,23,102,Nick Koepp
+Category2,46,148,Emily Maggio
+Category1,7,130,Vanessa Baumbach
+Category2,63,200,Donna Hansen
+Category1,67,193,Philip Turner-Williamson
+Category2,20,117,Melinda Okuneva Jr.
+Category1,69,123,Faith Schuppe
+Category2,50,188,Brent Dietrich
+Category1,75,161,Jacqueline Gusikowski
+Category2,19,112,Jerome Bradtke
+Category1,90,153,Mr. Allan Orn IV
+Category2,78,107,Minnie Cremin Sr.
+Category1,66,181,Eduardo Johnson
+Category2,96,153,Dr. Paula Langosh PhD
+Category1,32,132,Deanna Feil
+Category2,78,184,Ernesto Keeling
+Category1,63,185,Dr. Emilio Gusikowski
+Category2,4,150,Courtney Crist
+Category1,60,137,Ken Turcotte
+Category2,64,104,Oliver Feil
+Category1,90,191,Monica Dickinson
+Category2,14,157,Angel Littel
+Category1,92,200,Dr. Darlene Torp-Rippin
+Category2,11,111,Vicky Lind
+Category1,37,172,Terry Rogahn
+Category2,84,173,Arthur Morissette
+Category1,37,137,Larry King
+Category2,79,171,Bessie Dietrich
+Category1,75,167,Mr. Philip Schinner
+Category2,83,171,Yolanda Wolff
+Category1,39,150,Betsy Gleason
+Category2,47,150,Erick Wuckert
+Category1,57,107,Pauline Murphy
+Category2,26,179,Stanley Walsh
+Category1,84,187,Mathew Klein
+Category2,99,112,Tonya Beatty
+Category1,1,166,Pam Weimann
+Category2,45,189,Marcia Nicolas IV
+Category1,76,136,Eloise Herman-Von
+Category2,96,159,Joan Schmeler I
+Category1,69,174,Alan Gleason
+Category2,29,167,Wilma Nicolas
+Category1,31,116,Karl Prohaska
+Category2,31,148,Shannon Little
+Category1,29,151,Rudolph Hodkiewicz
+Category2,81,124,Esther Schiller III
+Category1,35,161,Mae Champlin
+Category2,71,193,Leroy Batz
+Category1,5,181,Jamie Gorczany
+Category2,86,103,Israel Bode
+Category1,49,190,Lauren Schowalter
+Category2,17,193,Carmen Sipes-McClure I
+Category1,38,144,Dr. Raul Heaney
+Category2,38,152,Cindy Nitzsche
+Category1,76,102,Aaron Casper
+Category2,55,197,Monica Goodwin
+Category1,8,157,Mr. Bennie Mueller
+Category2,8,146,Sylvia Predovic
+Category1,1,132,Christina Dietrich MD
+Category2,53,137,Lucas Grady
+Category1,94,102,Laura Mertz
+Category2,23,108,Dr. Ian Roberts
+Category1,7,113,Dawn Feeney
+Category2,68,124,Tonya Hegmann IV
+Category1,64,194,Ora Lindgren
+Category2,5,141,Sonia Botsford
+Category1,88,183,Elijah Monahan
+Category2,44,125,Homer Reichert
+Category1,7,142,Ian Feeney
+Category2,74,190,Domingo Rohan-Mitchell Jr.
+Category1,37,175,Elisa Miller
+Category2,78,118,Ted Vandervort
+Category1,52,187,Gilbert Simonis
+Category2,51,106,Ms. Belinda Bernhard DVM
+Category1,100,122,Cornelius Hoeger-Nicolas
+Category2,93,127,Jermaine Ward
+Category1,92,149,Sylvester Schmidt
+Category2,71,127,Courtney Franey
+Category1,74,136,Tabitha Rutherford
+Category2,12,135,Laurence Koss-Wehner
+Category1,18,105,Terrance Rodriguez
+Category2,58,109,Barry Fahey
+Category1,86,195,Gordon Shanahan
+Category2,11,124,Miriam Daniel
+Category1,50,160,Wade Rath Jr.
+Category2,39,130,Ian Bednar
+Category1,52,199,Johanna Marquardt
+Category2,40,122,Viola Rice V
+Category1,94,135,Rhonda Bogan
+Category2,39,196,Mr. Marlon Crooks
+Category1,15,183,Terry Kovacek
+Category2,75,127,Johnny Lebsack
+Category1,72,128,Alfred Flatley
+Category2,88,144,Pat Kshlerin
+Category1,30,103,Ollie Yundt
+Category2,74,193,Lela Bednar
+Category1,5,123,Heather Runolfsdottir
+Category2,2,141,Vickie Keeling-Spencer
+Category1,7,131,Minnie Waters
+Category2,34,165,Viola Gusikowski
+Category1,27,144,Ginger Rutherford
+Category2,27,130,Larry Graham
+Category1,62,152,Ramiro Corkery
+Category2,43,108,Jeffery Ankunding DDS
+Category1,72,172,Dianne Wilkinson
+Category2,50,190,Desiree Metz
+Category1,18,183,Jon Collier
+Category2,9,108,Carroll Marquardt
+Category1,86,195,Clint Anderson-Keebler
+Category2,2,130,Lester Larson
+Category1,51,151,Herbert Lueilwitz
+Category2,41,128,Darla O'Connell
+Category1,69,116,Darrin Donnelly Jr.
+Category2,77,142,Mandy Roberts
+Category1,50,148,Antonia Rosenbaum
+Category2,15,157,Laurence Luettgen
+Category1,53,200,Darryl Romaguera
+Category2,98,157,Clinton Marks
+Category1,77,116,Grant Rodriguez
+Category2,66,135,April Carter
+Category1,100,175,Mr. Leslie Kertzmann
+Category2,83,176,Yolanda Jenkins V
+Category1,28,165,Angel Kshlerin
+Category2,24,136,Laverne Predovic
+Category1,86,120,Garry Block
+Category2,18,152,Orlando Hoppe
+Category1,76,192,Marianne Hoppe
+Category2,29,106,Ollie Larson
+Category1,95,127,June Hayes DDS
+Category2,72,141,Eula Schumm
+Category1,27,129,William Goldner
+Category2,84,157,Lynn Gottlieb
+Category1,57,197,Reginald Gibson
+Category2,73,162,Jerome Nolan
+Category1,34,133,Stephen Carter
+Category2,68,155,Winston Wintheiser
+Category1,49,114,Lynette Mueller
+Category2,19,113,Jan Marvin
+Category1,33,188,Kelvin Erdman
+Category2,54,128,Kristie Tromp
+Category1,36,191,Clint Hoeger
+Category2,16,162,Orville Glover
+Category1,51,145,Sally Leuschke-Prohaska
+Category2,52,163,Claude Marvin
+Category1,94,159,Toby Wilderman
+Category2,57,112,Pablo Schumm
+Category1,25,106,Salvatore Conn
+Category2,20,198,Dr. Luke D'Amore
+Category1,36,184,Mrs. Angie Gottlieb
+Category2,71,181,Dr. Lamar Torp
+Category1,1,131,Dr. Alton Schoen
+Category2,9,107,Santos Treutel
+Category1,57,120,Dr. Erma VonRueden
+Category2,2,129,Dr. Andrew Ankunding
+Category1,45,147,Mrs. Amber Nolan-Hansen
+Category2,23,198,Kim Wilderman Sr.
+Category1,23,153,Walter Haag
+Category2,93,147,Angel Torphy
+Category1,33,120,Madeline Jacobi
+Category2,24,190,Shirley Purdy
+Category1,10,106,Miss Vera Deckow
+Category2,57,123,Troy Abernathy
+Category1,3,156,Wanda Heller
+Category2,49,131,Pam Jerde
+Category1,28,171,Ms. Judy Fay
+Category2,61,169,Gregg Roberts
+Category1,43,139,Dr. Jimmy Willms
+Category2,65,137,Meredith Hilll
+Category1,20,166,Mrs. Sophie Beahan
+Category2,58,178,Salvador Murphy
+Category1,48,178,Victor Turcotte
+Category2,4,132,Randolph Pfeffer
+Category1,14,132,Virgil Kuhlman
+Category2,86,180,Sue Dickinson IV
+Category1,46,142,Hannah Boyle
+Category2,85,190,Julia Casper
+Category1,1,135,Bryan Russel
+Category2,37,159,Dr. Aubrey Larson
+Category1,99,151,Faye Schaden
+Category2,76,130,Lois Hintz-Vandervort
+Category1,21,142,Otis Lakin III
+Category2,84,170,Malcolm Franey
+Category1,46,117,Josephine Bode
+Category2,52,181,Peggy Kilback
+Category1,100,121,Gabriel Stroman
+Category2,76,163,Derek Jerde
+Category1,62,193,Geoffrey Roberts
+Category2,35,193,Benjamin Daniel
+Category1,90,187,Elsa Crona
+Category2,91,133,Janis Ryan
+Category1,70,117,Belinda Dach
+Category2,48,191,Candace Purdy
+Category1,37,167,Shane Brekke
+Category2,15,167,Dr. Oliver Bins
+Category1,62,189,Henry Ratke
+Category2,51,152,Miss Kathryn Lakin DDS
+Category1,3,171,Kristopher Bechtelar
+Category2,22,136,Wendell Cremin
+Category1,52,167,Darryl Thompson
+Category2,30,126,Alfred Senger
+Category1,68,179,Christina Runte
+Category2,48,109,Lori Jones
+Category1,87,155,Rochelle Lehner
+Category2,41,104,Krystal Grady
+Category1,39,136,Brian Maggio
+Category2,11,133,Dr. Ben Johnston
+Category1,95,123,Wallace Wisozk
+Category2,48,157,Arlene Goyette
+Category1,91,112,Antoinette McCullough
+Category2,94,102,Israel Ryan
+Category1,88,160,Vivian Windler DDS
+Category2,2,200,Marvin Will
+Category1,18,131,Alicia Berge
+Category2,79,163,Harvey Runte
+Category1,19,135,Ada Stracke
+Category2,50,184,Stacy Stehr MD
+Category1,32,179,Brian Hudson
+Category2,55,145,Ryan Bechtelar
+Category1,32,172,Ricardo Connelly
+Category2,85,170,Patti Daniel
+Category1,82,145,Andy Miller IV
+Category2,83,165,Toni Goodwin Jr.
+Category1,87,181,Minnie Sanford
+Category2,29,114,Laurie Bauch
+Category1,62,163,Dora Feeney
+Category2,21,102,Reginald Hauck
+Category1,42,188,Courtney Brakus
+Category2,85,159,Mae Trantow
+Category1,43,149,Rudolph Strosin
+Category2,3,111,Janie Reynolds Jr.
+Category1,15,130,Maureen McClure I
+Category2,57,152,Marco Collier
+Category1,34,175,Francis Ferry
+Category2,96,190,Willard Kshlerin MD
+Category1,23,185,Sheryl Carter
+Category2,27,130,Bryant Collins
+Category1,76,150,Ricky Lakin
+Category2,91,133,Bobby Corkery
+Category1,20,180,Crystal Harris
+Category2,70,179,Tiffany Nikolaus DDS
+Category1,67,149,Laverne Gleichner
+Category2,4,136,Jill Parisian
+Category1,5,153,Lydia Lang
+Category2,98,166,Dr. Pete Barrows
+Category1,4,146,Mrs. Harriet Stark III
+Category2,76,195,Blanca Dach
+Category1,85,122,Velma Strosin
+Category2,27,139,Morris Sawayn
+Category1,46,168,Vincent Keeling
+Category2,67,166,Melba Bernhard
+Category1,7,149,Felipe Dickinson
+Category2,10,151,Miss Sherry Turcotte
+Category1,6,195,Roland Sanford Jr.
+Category2,57,114,Alberto Collins
+Category1,77,169,Cody Kunde
+Category2,88,109,Celia McClure
+Category1,97,101,Ms. Amber Lockman
+Category2,93,179,Dean Blanda
+Category1,11,196,Dr. Armando Roob-Lynch
+Category2,73,135,Charlie Raynor
+Category1,76,130,Heather Rath
+Category2,56,120,Mr. Ray Bednar
+Category1,83,171,Cary Shanahan
+Category2,35,186,Mrs. Leah Mitchell III
+Category1,13,183,Dexter Kessler
+Category2,86,186,Mike Jerde
+Category1,26,190,Sally Tromp
+Category2,76,187,Simon Gottlieb
+Category1,29,170,Miss Renee Spencer
+Category2,68,108,Laurence Schiller
+Category1,25,182,Ramona Kovacek
+Category2,82,127,Adrian Kautzer
+Category1,56,147,Alicia Weber Sr.
+Category2,22,119,Lucas Rosenbaum
+Category1,80,170,Gerard Fadel I
+Category2,11,118,Carroll Hickle
+Category1,49,116,Wayne Schaefer
+Category2,23,184,Ms. Marian Abernathy
+Category1,18,154,Ms. Mable Graham
+Category2,93,129,Ms. Tina Donnelly
+Category1,48,173,Benny Jenkins
+Category2,84,152,Vickie Prohaska
+Category1,48,148,Maureen Roberts III
+Category2,39,168,Carole Lind
+Category1,58,102,Miss Sharon McClure DDS
+Category2,55,174,Arlene Friesen
+Category1,57,186,Hubert Johnson
+Category2,56,125,Francis Cormier
+Category1,45,160,Dr. Jesse Dibbert
+Category2,26,167,Miss Heidi Hoeger
+Category1,77,188,Steve Goyette
+Category2,37,124,Josephine Maggio
+Category1,8,176,Jeffrey Sporer
+Category2,18,122,Curtis O'Keefe Sr.
+Category1,57,132,Mr. Jerry Heidenreich PhD
+Category2,17,185,Mrs. Christine Streich
+Category1,48,151,Dr. Terrell Mueller
+Category2,99,114,Jesse Gusikowski-Bergnaum
+Category1,28,114,Dr. Pat King
+Category2,80,153,Theodore Marks-Kulas
+Category1,26,143,Carlos Kovacek
+Category2,46,175,Traci D'Amore
+Category1,78,200,Jackie Bauch
+Category2,72,112,Alberta Turner
+Category1,64,120,Miss Christie West
+Category2,26,101,Ernest Hilll
+Category1,99,109,Charles Kohler
+Category2,63,113,Samantha Schmidt DDS
+Category1,23,135,Frances Jaskolski
+Category2,21,173,Cesar Stokes
+Category1,53,146,Angelo Tremblay
+Category2,20,158,Paula Gibson-Larson
+Category1,98,189,Shane Cormier
+Category2,74,194,Carmen Legros
+Category1,54,137,Jonathan Barrows
+Category2,3,104,Melinda Goodwin
+Category1,25,119,Vincent Mante
+Category2,86,134,Casey Franecki III
+Category1,14,126,Devin Schmitt
+Category2,89,182,Vivian Schmitt
+Category1,68,171,Pearl Franecki
+Category2,25,192,Orville Kutch
+Category1,78,196,Heidi Kunde
+Category2,12,192,Kerry Block DDS
+Category1,41,150,Leticia Morissette
+Category2,95,115,Frederick Gutkowski
+Category1,69,193,Noel Schuster
+Category2,32,155,Sandra Jacobi
+Category1,31,145,Lorraine Corwin
+Category2,43,181,Dr. Edward Beatty
+Category1,67,176,Beatrice Kassulke
+Category2,38,165,Lisa Grimes
+Category1,22,200,Bonnie Prosacco
+Category2,68,122,Tiffany Morar
+Category1,29,114,Kathleen Keebler
+Category2,79,133,Michele Russel
+Category1,21,131,Kristie Lehner
+Category2,42,137,Jason Schultz
+Category1,69,118,Jo Littel
+Category2,15,107,Cheryl Stokes
+Category1,74,112,Enrique Hayes
+Category2,51,115,Kelvin Moore
+Category1,43,138,Krista Gleason
+Category2,46,186,Shelia Parisian
+Category1,89,143,Jean Vandervort
+Category2,29,145,Everett Strosin
+Category1,5,140,Aubrey Sauer
+Category2,7,151,Ms. Vanessa Sporer
+Category1,15,178,Charlotte Nikolaus
+Category2,2,150,Mr. Cecil Haag
+Category1,90,136,Laurence Corkery
+Category2,17,151,Jack Berge
+Category1,64,193,Emily Wuckert
+Category2,69,107,Ted Rodriguez
+Category1,61,142,Lula Ortiz
+Category2,16,103,Leslie Moore
+Category1,45,176,Horace Wolff
+Category2,61,175,Fredrick Macejkovic
+Category1,77,193,Roman Thiel
+Category2,94,149,Florence Bechtelar
+Category1,64,193,Sherry Konopelski
+Category2,49,191,Violet Ratke
+Category1,84,147,Angel Steuber
+Category2,20,116,Steve Runolfsdottir
+Category1,32,107,Myron Bogan
+Category2,18,172,Meghan Armstrong-McGlynn
+Category1,75,138,Emily Pouros
+Category2,58,170,Gayle Corkery
+Category1,56,114,Mrs. Marcia Steuber
+Category2,15,190,Mr. Jimmie Prohaska
+Category1,98,145,Ms. Janet Wolff
+Category2,100,188,Darlene Romaguera
+Category1,8,170,Dr. Jeffery Champlin
+Category2,21,109,Heidi Price
+Category1,80,150,Casey Considine
+Category2,41,133,Benjamin Purdy
+Category1,81,181,Jeanette Fahey DDS
+Category2,54,111,Christy Goyette MD
+Category1,63,133,Jennie Bailey
+Category2,63,118,Ernesto Smith
+Category1,74,119,Josephine Reilly DDS
+Category2,22,149,Francis Abshire
+Category1,49,108,Lance Brown
+Category2,44,165,Dr. Emanuel Graham V
+Category1,48,133,Bert Schuppe
+Category2,34,119,Jacquelyn Hammes
+Category1,100,186,Erika Lehner-Lemke
+Category2,89,192,Larry Pfannerstill
+Category1,61,192,Marilyn Emard
+Category2,22,103,Douglas Effertz
+Category1,16,159,Phyllis Hahn
+Category2,72,147,Mr. Dewey Toy
+Category1,68,140,Wilma Beier
+Category2,67,167,Misty Wuckert
+Category1,79,108,Darrell Hodkiewicz
+Category2,18,119,Jacquelyn Fritsch Jr.
+Category1,27,127,Harvey Kuphal
+Category2,7,173,Shelia McCullough
+Category1,26,106,Isabel Stokes
+Category2,9,140,Dexter Erdman
+Category1,72,109,Rosemarie Raynor
+Category2,37,163,Dr. Cecil Ziemann Jr.
+Category1,76,128,Miss Janice Corkery
+Category2,67,180,Isabel White
+Category1,36,146,Glen Grimes MD
+Category2,34,110,Eugene Moen
+Category1,96,174,Dorothy Sipes
+Category2,52,167,Becky Farrell
+Category1,43,113,Stanley Reilly
+Category2,100,190,Lucas Cormier
+Category1,28,127,Willis Mueller
+Category2,6,102,Adrienne Cronin
+Category1,80,171,Alfonso Russel
+Category2,34,160,Dr. Denise Osinski
+Category1,26,176,Bradford Smith
+Category2,98,153,Israel Ruecker
+Category1,25,176,Darnell Mitchell
+Category2,5,147,Mrs. Marian Larson
+Category1,5,123,Miriam Sawayn
+Category2,35,174,Dr. Lori Kiehn
+Category1,79,176,Dr. Chris Dibbert-Kovacek
+Category2,3,184,Ernestine Quigley
+Category1,99,105,Rufus Lakin
+Category2,63,132,Andre Goodwin Jr.
+Category1,69,115,Bessie Bednar
+Category2,99,138,Dr. Chester Gottlieb
+Category1,80,141,Stanley Weimann
+Category2,39,137,Mrs. Darla Ruecker-Pouros
+Category1,66,196,Karl Franecki PhD
+Category2,80,175,Kerry Walter
+Category1,46,153,Krystal Larkin
+Category2,72,187,Kristopher Flatley
+Category1,84,133,Casey Dare
+Category2,51,157,Danny Lakin
+Category1,96,102,Genevieve Johnston
+Category2,53,167,Mr. Jared Corkery
+Category1,89,176,Natalie Cruickshank-Franey
+Category2,17,131,Freddie Stoltenberg
+Category1,99,188,Beatrice Dickens
+Category2,47,184,Kristi Douglas
+Category1,39,199,Maria Herman
+Category2,69,121,Ana Reilly
+Category1,41,176,Dr. Everett Kertzmann I
+Category2,55,131,Sherman Schaefer
+Category1,17,117,Cindy Mueller
+Category2,100,107,Molly Bergstrom
+Category1,54,173,Dr. Alexander Denesik
+Category2,54,180,Sheldon Streich
+Category1,3,108,Felicia Kuphal
+Category2,90,190,Nathaniel Keebler
+Category1,9,130,Angelina Fritsch III
+Category2,4,182,Cecil Kuhn
+Category1,2,119,Silvia Mante
+Category2,11,112,Adam Jaskolski
+Category1,83,145,Carolyn Hahn
+Category2,79,179,Joyce Fay
+Category1,20,128,Dana Rosenbaum
+Category2,3,130,Joel Lockman
+Category1,88,174,Angel Lowe
+Category2,2,142,Margie Schoen
+Category1,1,162,Mr. Russell Veum
+Category2,12,175,Dr. Jorge Romaguera
+Category1,23,161,Pat Kub
+Category2,17,169,Deborah Hoeger
+Category1,5,135,Cary Schmeler
+Category2,79,140,Joel Hudson
+Category1,52,191,Kim Hane
+Category2,71,181,Mr. Frankie Mitchell Jr.
+Category1,15,173,Kara Bins
+Category2,84,143,Reginald Donnelly
+Category1,96,172,Nicole Streich
+Category2,61,160,Anna Mosciski
+Category1,77,114,Kristin Anderson
+Category2,71,179,William Cartwright
+Category1,21,150,Jean Raynor
+Category2,73,133,Minnie Prosacco
+Category1,11,128,Sheila Dooley
+Category2,78,126,Sonia Cassin
+Category1,19,115,Clifton Mann V
+Category2,73,199,Brent Ernser
+Category1,56,167,Mr. Aubrey Corkery
+Category2,70,102,Dr. Lloyd Labadie
+Category1,52,178,Mrs. Tracey Stracke
+Category2,72,150,Kerry Hessel
+Category1,73,134,Dr. Jasmine Veum
+Category2,91,156,Micheal Collins
+Category1,70,118,Hubert Gleason
+Category2,58,188,Lucas Steuber
+Category1,31,140,Moses Gottlieb
+Category2,53,165,Greg Kiehn
+Category1,77,126,Dawn Waelchi
+Category2,95,195,Steven Windler Jr.
+Category1,44,176,Mr. Randolph Lang
+Category2,100,176,Marion Williamson-McGlynn
+Category1,18,135,Nathan Schinner
+Category2,61,159,Bridget Kling I
+Category1,57,169,Sylvia Gutmann
+Category2,4,188,Henry Cassin-Franey
+Category1,3,175,Kenneth Nikolaus DVM
+Category2,4,186,Robyn Haag
+Category1,60,118,Francis Jacobi
+Category2,31,167,Hilda Dibbert
+Category1,3,192,Jana Greenfelder
+Category2,46,134,Gretchen Wisoky
+Category1,85,146,Stacey Kuhn
+Category2,57,154,Gregory Deckow
+Category1,78,135,Fannie Murphy
+Category2,17,174,Leah Anderson
+Category1,90,128,Sonja Stokes-Crooks
+Category2,39,119,Nicolas Hansen
+Category1,30,155,Erma Haag
+Category2,64,116,Clarence Mante
+Category1,66,104,Brandon Okuneva
+Category2,93,193,Leona Harber-Ritchie
+Category1,47,113,Mrs. Rhonda Weimann
+Category2,21,132,Tracey Gorczany
+Category1,91,130,Drew Mayer V
+Category2,45,188,Whitney Hermann
+Category1,40,197,Wallace Von
+Category2,41,170,Myron Quigley
+Category1,9,174,Preston Sanford
+Category2,95,169,Joe Yundt Jr.
+Category1,45,152,Dr. Roderick Hand DVM
+Category2,19,103,Craig Haag
+Category1,47,108,Hector Oberbrunner
+Category2,27,101,Carla Mills
+Category1,78,121,Kara Maggio
+Category2,25,103,Dallas Carter Jr.
+Category1,69,115,Rebecca Feeney
+Category2,39,109,Fernando Murazik
+Category1,99,106,Bruce Vandervort
+Category2,85,146,Dr. Gina Casper
+Category1,16,108,Betty Legros
+Category2,43,195,Donald Abshire-Gibson
+Category1,55,146,Priscilla Cole
+Category2,9,141,Miss Verna Robel
+Category1,72,160,Camille O'Kon
+Category2,98,122,Laurie Koepp
+Category1,45,191,Jacquelyn Lockman
+Category2,74,148,Drew Kertzmann
+Category1,60,127,Harvey Romaguera
+Category2,47,105,Ms. Karla Walter
+Category1,93,191,Marcella Daugherty
+Category2,76,167,Mark Turcotte MD
+Category1,78,116,Gerald Denesik
+Category2,96,106,Eduardo Howe
+Category1,92,131,Paul Zboncak
+Category2,29,108,Mr. Gary Padberg
+Category1,2,149,Dixie Hills
+Category2,53,197,Jorge Little
+Category1,87,185,Dr. Freda Schimmel
+Category2,88,152,Wendell Harvey
+Category1,45,187,Richard Kreiger
+Category2,12,186,Estelle Durgan
+Category1,80,103,Carlton Legros
+Category2,80,132,Kelly Durgan
+Category1,25,158,Neil Zboncak-Hettinger
+Category2,99,173,Casey Nader
+Category1,37,178,Dolores McClure
+Category2,51,182,Kate Waters
+Category1,94,129,Cornelius Cormier PhD
+Category2,92,143,Mr. Al Tremblay
+Category1,69,191,Wilson Gulgowski
+Category2,89,200,Myra Hills
+Category1,98,136,Miss Vicki Kshlerin
+Category2,14,169,Amber Kunze
+Category1,3,157,Eddie Schamberger
+Category2,27,141,Mr. Luis Bahringer
+Category1,88,143,Javier Crist
+Category2,72,118,Dr. Don Langosh
+Category1,37,128,Rosalie O'Kon
+Category2,96,171,Neal Johns
+Category1,27,139,Micheal Maggio PhD
+Category2,94,162,Jennie Crooks
+Category1,20,197,Kendra Schaefer
+Category2,50,177,Phil Kuphal DDS
+Category1,9,147,Marta Torp-Ebert
+Category2,39,170,Penny Lind
+Category1,85,188,Rosie Stark
+Category2,22,193,Amber Roberts
+Category1,70,106,Justin Abernathy
+Category2,20,109,Brandi Schoen
+Category1,63,180,Nora Hartmann
+Category2,27,199,Kerry Herman
+Category1,60,150,Mr. Hector Shanahan
+Category2,43,189,Mr. Bradley Zboncak DVM
+Category1,23,120,Rhonda Hilpert
+Category2,7,149,Marcia Hickle
+Category1,32,146,Joyce Reinger
+Category2,6,170,Sheila Rowe
+Category1,61,109,Carmen Berge
+Category2,15,145,Kyle Green
+Category1,68,165,Jorge Bashirian
+Category2,13,174,Floyd Cole
+Category1,51,198,Sherry Marks
+Category2,63,174,Ms. Tabitha Lebsack
+Category1,82,134,Emmett Upton
+Category2,24,103,Emanuel Upton
+Category1,62,184,Joyce Marvin
+Category2,36,192,Juanita Mueller
+Category1,35,180,Lionel Hahn
+Category2,65,103,Alexandra Ankunding
+Category1,38,160,Johnathan Swaniawski
+Category2,73,112,Ms. Grace Treutel IV
+Category1,65,171,Kelli Brakus
+Category2,58,168,Sergio Bogisich
+Category1,54,189,Kimberly Heaney
+Category2,34,113,Yvette McLaughlin
+Category1,40,135,Jeffrey Williamson
+Category2,12,161,Terry Nitzsche I
+Category1,51,133,Mr. Ross Medhurst
+Category2,46,129,Kristopher Gislason
+Category1,66,135,Rosie Ferry
+Category2,72,145,Darrin Kilback I
+Category1,46,112,Woodrow Hauck
+Category2,11,107,Mrs. Loretta Moen DVM
+Category1,61,181,Willie Reichert-Cole
+Category2,78,102,Greg Pacocha
+Category1,16,152,Harriet Skiles
+Category2,35,118,Lance Padberg
+Category1,6,187,Mike Tromp
+Category2,96,185,Clint Mosciski
+Category1,16,134,Dora Metz
+Category2,92,109,Sabrina Kiehn
+Category1,29,108,Louis Deckow Sr.
+Category2,20,154,Lana Cassin
+Category1,54,112,Terri O'Kon
+Category2,100,182,Marcia Hartmann
+Category1,71,142,Elsa Gulgowski
+Category2,56,160,Kelly Fay
+Category1,79,180,Miss Kim Rutherford
+Category2,80,169,Taylor McKenzie
+Category1,17,192,Kristen Cormier-Hagenes
+Category2,24,119,Ivan Swaniawski V
+Category1,88,154,Mrs. Francis Jakubowski
+Category2,49,132,Jesus Ebert
+Category1,77,164,Ms. Andrea McGlynn
+Category2,75,187,Devin Huel
+Category1,9,107,Ethel Quitzon Jr.
+Category2,57,188,Phyllis Jacobson
+Category1,11,168,Arlene Heaney
+Category2,100,146,Dr. Joe Dach
+Category1,55,151,Philip Bartell
+Category2,52,132,Sylvester Brekke
+Category1,23,126,Antoinette Becker
+Category2,16,185,Cameron Hudson
+Category1,45,175,Sammy Lang-Kuvalis
+Category2,81,165,April Stoltenberg
+Category1,78,115,Kerry Kihn
+Category2,65,122,Van Kassulke
+Category1,66,140,Charlie Schneider
+Category2,10,193,Bryan Koepp
+Category1,58,200,Garrett Feest
+Category2,42,141,Chris Keebler DDS
+Category1,24,163,Edmund Mann
+Category2,79,180,Brad Huels Jr.
+Category1,47,108,Ebony Stark
+Category2,44,114,Henry Stoltenberg
+Category1,3,136,Lamar Hilpert
+Category2,18,188,Caroline Hodkiewicz
+Category1,36,113,Al Gleichner-Ankunding
+Category2,30,119,Ervin Spencer IV
+Category1,46,171,Patrick Jacobi
+Category2,70,147,Zachary Smitham
+Category1,89,156,Bridget Sanford
+Category2,44,161,Jenny Reinger
+Category1,10,173,Dr. Olive Bednar Jr.
+Category2,62,150,Antonia Green
+Category1,16,171,Preston Greenholt
+Category2,24,144,Mitchell Casper
+Category1,86,140,Mercedes Berge II
+Category2,87,139,Donald Bogisich
+Category1,15,196,Jimmy Steuber
+Category2,71,102,Vickie Crooks
+Category1,8,157,Lena Quigley
+Category2,16,142,Michael Hudson DVM
+Category1,75,159,Evelyn Tillman
+Category2,18,105,Carol Cremin PhD
+Category1,40,144,Tommie Fay
+Category2,18,168,Marjorie Gutmann
+Category1,52,141,Ken Herzog PhD
+Category2,49,183,Bill Boyle
+Category1,92,110,Jessie Heaney
+Category2,64,164,Chester Dibbert
+Category1,56,194,Dr. Paula Larson
+Category2,41,141,Louise Hessel
+Category1,99,151,Ricky Orn
+Category2,72,113,Geraldine Mayert
+Category1,12,149,Brenda Dicki
+Category2,60,150,Mr. Guillermo Turcotte
+Category1,93,185,Myron Feeney MD
+Category2,89,124,Ollie Hauck Jr.
+Category1,59,124,Harvey Lindgren
+Category2,76,159,Jeannie Donnelly
+Category1,88,104,Jared Nienow
+Category2,44,116,Bruce Collier
+Category1,84,158,Laurie Schumm
+Category2,42,180,Mr. Mack Kozey
+Category1,78,187,Melanie Kemmer
+Category2,68,197,Roman Gottlieb
+Category1,41,185,Dr. Marc Hodkiewicz
+Category2,37,181,Florence Turner
+Category1,42,147,Sophie Leannon
+Category2,80,174,Corey Kling
+Category1,90,174,Miriam Weimann
+Category2,36,175,John Roberts
+Category1,54,112,Tommy Reynolds
+Category2,5,172,Sally Mohr
+Category1,22,158,Jacquelyn Bartell
+Category2,97,155,Dr. Patty Haag
+Category1,99,195,Dr. Brian Swaniawski
+Category2,37,181,Rene Larkin
+Category1,74,113,Joanne McKenzie
+Category2,45,184,Leland Littel
+Category1,78,143,Cassandra Spinka
+Category2,81,142,Mr. Jackie Stokes MD
+Category1,29,161,Allan Koepp V
+Category2,92,159,Kristen Brakus
+Category1,82,173,Dustin O'Kon
+Category2,60,101,Alfred Adams-Bauch
+Category1,62,171,Joanne Spencer
+Category2,9,119,Pauline Jerde
+Category1,6,159,Miss Terry Boyle
+Category2,25,113,Dawn Yundt
+Category1,46,110,Verna Medhurst
+Category2,5,141,Johnny Fisher
+Category1,84,182,Philip Kreiger
+Category2,52,147,Roberta Ebert
+Category1,1,116,Dr. Robin Hoppe I
+Category2,39,125,Tyler Quigley
+Category1,93,175,Dr. Eloise Ferry
+Category2,63,121,Saul Wilderman
+Category1,33,112,Miss Loretta Strosin
+Category2,95,161,Alton Cremin
+Category1,84,154,Daryl Turcotte
+Category2,48,165,Sylvia Dickens
+Category1,28,111,Jeffery Stokes
+Category2,55,158,Laura Tremblay
+Category1,15,150,Randall O'Conner
+Category2,2,131,Mr. Eddie Renner
+Category1,35,182,Erma Cormier
+Category2,42,191,Lindsey Kihn I
+Category1,89,143,Stanley Keebler
+Category2,93,149,Lola Robel
+Category1,10,189,Doug Quigley
+Category2,31,125,Brett Larson
+Category1,2,193,Geraldine O'Keefe
+Category2,22,113,Miss Mamie Jakubowski
+Category1,13,192,Eric Schaden
+Category2,87,124,Patty Mitchell
+Category1,41,198,Jasmine Stokes
+Category2,86,193,Jean Toy
+Category1,63,116,Melba Fadel Jr.
+Category2,50,198,Robin Feil Sr.
+Category1,82,125,Bernice Hackett I
+Category2,54,156,Nelson Gottlieb
+Category1,25,175,Clay Nader II
+Category2,86,110,Lila Ortiz
+Category1,25,185,Lee Stiedemann
+Category2,60,109,Jean Cummerata
+Category1,74,185,Allison Hahn
+Category2,53,131,Betty Doyle
+Category1,13,135,Lauren Crist
+Category2,40,162,Nora Corwin
+Category1,23,128,Kristie Jacobson
+Category2,34,143,Wanda Wuckert
+Category1,18,130,Jack Simonis
+Category2,82,122,Alison Weber
+Category1,100,116,Dixie Lind
+Category2,8,175,Rachael Braun
+Category1,1,184,Andy O'Conner
+Category2,32,128,Timothy Kuhic
+Category1,81,186,Randall Will
+Category2,45,178,Deborah Auer
+Category1,40,121,Daryl Crist
+Category2,12,176,Alberto Conroy
+Category1,59,130,Laura McDermott
+Category2,99,147,Gene Yundt
+Category1,57,146,Marcia Blanda-Connelly
+Category2,79,199,Ms. Gertrude Larson DDS
+Category1,36,104,Marcia Buckridge
+Category2,26,136,Miss Nettie Schuster III
+Category1,100,192,Nellie Sauer
+Category2,51,147,Dale Welch
+Category1,99,180,Betsy Weber
+Category2,20,169,Albert Cassin
+Category1,22,123,Rudy Quigley-Russel
+Category2,69,132,Sheri Bashirian
+Category1,91,191,Carolyn Mraz
+Category2,75,131,Dr. Traci Wisozk
+Category1,57,152,Wilbur VonRueden
+Category2,71,139,Agnes Rath
+Category1,91,114,Corey Glover
+Category2,12,127,Matt Daniel
+Category1,74,116,Crystal Willms IV
+Category2,28,160,Dr. Dawn Bogan
+Category1,72,162,Dr. Phyllis Zboncak
+Category2,58,154,Willie DuBuque
+Category1,10,151,Johnnie Romaguera
+Category2,64,120,Clint Macejkovic
+Category1,77,108,Ellen Kiehn
+Category2,71,113,Morris Brown
+Category1,27,112,Dr. Virgil Ward
+Category2,87,160,Clark Langosh
+Category1,41,124,Joseph Schowalter
+Category2,90,103,Martin Lehner DVM
+Category1,58,188,Wanda Abshire
+Category2,3,175,Elisa Gutkowski
+Category1,43,192,Mrs. Sarah Sawayn
+Category2,50,110,Ralph Bosco
+Category1,42,112,Freda Kerluke
+Category2,28,128,Shannon Rempel-Dicki
+Category1,57,161,Freda Smith
+Category2,83,160,Clifton Schroeder
+Category1,77,112,Pamela Terry-Cartwright
+Category2,25,128,Ethel Bednar
+Category1,33,143,Van Hermann-Rodriguez
+Category2,56,193,Abraham Torp
+Category1,73,162,Kyle Muller
+Category2,85,145,Jonathan Hauck
+Category1,22,101,Robert Rau DDS
+Category2,45,122,Steven Steuber I
+Category1,21,150,Boyd Herzog
+Category2,14,144,Jacob Adams
+Category1,15,111,Troy Kris DVM
+Category2,32,155,Johnny Little
+Category1,53,130,Lynn Gutkowski
+Category2,63,143,Wilbur Fisher II
+Category1,11,182,Donald Schiller
+Category2,52,148,Ramona Purdy
+Category1,100,161,Cesar O'Conner
+Category2,87,181,Sharon Waters DVM
+Category1,84,200,Ana Runolfsdottir
+Category2,68,146,Anita Altenwerth
+Category1,6,194,Antoinette Corwin MD
+Category2,55,102,Christian Bailey
+Category1,57,166,Tabitha Mertz
+Category2,52,116,Shelly Schuster
+Category1,27,126,Bryan Kunze
+Category2,12,103,Toni Medhurst
+Category1,93,171,Eunice Trantow
+Category2,17,166,Sonja Kirlin
+Category1,38,170,Ira Swaniawski
+Category2,39,176,Charlene Kuhlman
+Category1,2,141,Lynda Osinski
+Category2,65,183,Otis Dietrich
+Category1,92,153,Dr. Tyrone Johns
+Category2,42,176,Dr. Pat Russel
+Category1,71,121,Gwen Gerlach
+Category2,1,186,Marshall Breitenberg-Hintz
+Category1,91,196,Miss Natalie Zemlak
+Category2,97,121,Dean Wiza
+Category1,34,151,Dixie Orn
+Category2,33,182,Erma Wintheiser
+Category1,1,151,Mrs. Meghan Beier
+Category2,87,134,Brendan Kerluke
+Category1,38,191,Samuel Smitham
+Category2,95,194,Jeanette Lemke
+Category1,56,159,Erin Rolfson
+Category2,19,146,Julio Daniel PhD
+Category1,57,190,Randall Koelpin
+Category2,10,110,Mr. Lyle Pollich DDS
+Category1,59,169,Theresa Upton
+Category2,28,175,Grady Swift DDS
+Category1,80,192,Mr. Alonzo Collins
+Category2,100,177,Ted Gusikowski
+Category1,77,195,Sonja Veum
+Category2,44,162,Dr. Tricia Franey II
+Category1,68,151,Kelly Ferry
+Category2,57,198,Gertrude Orn-Borer
+Category1,83,150,Courtney Feil
+Category2,85,193,Randy Will
+Category1,37,134,Gladys Bernhard MD
+Category2,63,115,Raquel Casper
+Category1,63,162,Tracy Berge
+Category2,49,101,Shannon Willms
+Category1,49,187,Paulette Schulist III
+Category2,29,106,Ms. Katrina Lowe
+Category1,52,128,Jesus Erdman
+Category2,28,121,Jake Mann
+Category1,84,157,Rochelle O'Hara
+Category2,48,198,Dr. Andres McLaughlin I
+Category1,16,128,Doug Williamson
+Category2,15,155,Mr. Martin Labadie
+Category1,46,140,Alan Rutherford
+Category2,75,153,Santiago Collins PhD
+Category1,29,104,Adrienne Marquardt
+Category2,85,136,Jeremy Reynolds
+Category1,14,130,Mabel Connelly
+Category2,24,131,Maryann Stroman DVM
+Category1,56,179,Betsy Weimann
+Category2,55,112,Bobbie Jerde
+Category1,25,171,Norman Waters
+Category2,90,152,Rudy Carter
+Category1,84,118,Bonnie Kling
+Category2,20,113,Carolyn Pagac
+Category1,55,131,Gerardo Bogisich MD
+Category2,61,150,Miss Rita Cole
+Category1,31,116,Julius Reynolds
+Category2,2,119,Manuel Nitzsche
+Category1,53,116,Elena Rosenbaum
+Category2,79,197,Maxine Waters
+Category1,39,128,Elsie Green
+Category2,37,140,Marta McClure
+Category1,36,171,Suzanne Witting
+Category2,44,191,Rene Heidenreich IV
+Category1,8,192,Conrad Champlin-Lueilwitz
+Category2,100,181,Louise Gutmann
+Category1,73,140,Patrick Hamill DDS
+Category2,7,114,Lonnie Pacocha
+Category1,58,120,Alexandra Moore
+Category2,24,151,Ms. Sophie Ullrich
+Category1,44,148,Teri Stiedemann
+Category2,15,152,Donald Hickle PhD
+Category1,16,149,Toni Bechtelar
+Category2,78,190,Vivian Fahey
+Category1,64,101,Jo Dietrich IV
+Category2,79,147,Lionel Dooley
+Category1,30,147,Olga Rowe
+Category2,48,169,Marshall Pfannerstill
+Category1,46,106,Miss Andrea Haag
+Category2,69,183,Dwight Leffler
+Category1,97,130,Johnnie Wilderman
+Category2,95,173,Jody Gulgowski Sr.
+Category1,93,138,Lucy Parisian
+Category2,3,158,Garry Rogahn IV
+Category1,52,189,Leo Kutch
+Category2,47,104,Mrs. Maxine Satterfield
+Category1,44,151,Brett Roob-Ritchie
+Category2,65,121,Joanna Herman
+Category1,67,136,Eleanor Johns IV
+Category2,2,134,Sadie Hermiston
+Category1,31,189,Sherman Dare
+Category2,89,154,Chris Kulas
+Category1,83,190,Phyllis Powlowski
+Category2,75,105,Mr. Juan Miller
+Category1,92,199,Lindsay Lueilwitz
+Category2,77,147,Jeffery Sipes
+Category1,66,176,Kendra Raynor II
+Category2,69,135,Pete Crona
+Category1,3,136,Mr. Phillip Rohan
+Category2,66,118,Rickey Breitenberg
+Category1,78,191,Mrs. Lola Kertzmann
+Category2,71,154,Nicholas Legros
+Category1,63,117,Sandy Price
+Category2,81,199,Joseph Hansen
+Category1,18,181,Lori Harris
+Category2,4,117,Wendy Smith
+Category1,26,181,Jacquelyn Kuhlman-Tromp
+Category2,5,108,Lynn Little DVM
+Category1,74,156,Celia Gerhold
+Category2,78,193,Jerome Kris-Langosh
+Category1,68,151,Jan Thompson
+Category2,16,101,Fred Luettgen
+Category1,23,160,Miss Darlene Armstrong
+Category2,23,180,Helen Lang Jr.
+Category1,93,149,Karen Langworth
+Category2,60,150,Jason Koepp-Crona
+Category1,47,112,Beth Willms
+Category2,60,113,Mr. Eduardo Herzog
+Category1,8,174,Alex Will
+Category2,35,111,Regina Thompson
+Category1,96,139,Boyd Shanahan III
+Category2,48,164,Mr. Jermaine Prohaska DVM
+Category1,94,177,Dominic Rutherford
+Category2,6,115,Kelley Boyle
+Category1,85,109,Irma Schimmel
+Category2,5,144,Drew Wolff
+Category1,80,172,Evelyn Green
+Category2,24,129,Ms. Tonya Haley
+Category1,34,186,Pat VonRueden
+Category2,80,134,Cecilia Schumm
+Category1,80,147,Daryl Pfeffer
+Category2,42,183,Travis Pouros
+Category1,66,138,Patrick Bartoletti
+Category2,70,133,Lucy Mohr
+Category1,51,176,Eloise Ruecker
+Category2,71,125,Alfred Kohler
+Category1,81,148,Tami Rempel
+Category2,1,181,Fredrick Corkery
+Category1,74,176,Kurt Upton II
+Category2,24,115,Natalie Lubowitz-Langworth
+Category1,87,186,Anita Ullrich
+Category2,86,185,Dominick Kassulke DDS
+Category1,26,163,Darlene McDermott
+Category2,43,162,Marian Blanda
+Category1,86,123,Miss Lisa Ullrich
+Category2,5,181,Eileen Wuckert
+Category1,47,124,Tyrone Watsica-Stoltenberg IV
+Category2,9,161,Eunice Witting
+Category1,30,103,Luther Rogahn
+Category2,29,111,Johnny Strosin
+Category1,9,104,Mrs. Latoya Rice
+Category2,68,181,Mr. Jeremiah Denesik-Herzog I
+Category1,1,168,Holly Kohler
+Category2,53,167,Roy MacGyver
+Category1,19,147,Rex Will
+Category2,30,120,Bonnie Wunsch
+Category1,10,122,Steve Dickinson
+Category2,97,146,Randolph Wiza
+Category1,45,145,Andre Wolff
+Category2,53,108,Ms. Faith Rempel
+Category1,28,198,Kerry Casper
+Category2,23,161,Erica Boehm I
+Category1,52,119,Tracy Kautzer
+Category2,27,188,Eloise Gutkowski
+Category1,13,160,Jane Boyer-O'Connell
+Category2,71,171,Myra Lueilwitz
+Category1,51,149,Beverly Hilll
+Category2,34,114,Allen Sanford
+Category1,44,165,Steven Waters
+Category2,94,182,Annie Fadel
+Category1,88,191,Tasha Cormier
+Category2,58,189,Misty Stehr
+Category1,80,128,Brad Pollich V
+Category2,83,128,Diana Mraz
+Category1,64,155,Mrs. Lisa Waters
+Category2,88,122,Isaac Nolan
+Category1,97,197,Shawna Greenholt DDS
+Category2,82,181,Jacob Bechtelar-Pfeffer
+Category1,38,114,Miss Doris Mraz
+Category2,51,181,Glenn Price
+Category1,25,132,Wendy Ernser
+Category2,27,120,Angie Hackett
+Category1,45,118,Morris Kub
+Category2,88,101,Rosa Grimes
+Category1,38,194,Dr. Ken Beier
+Category2,22,171,Mr. Henry Windler
+Category1,55,105,Jordan Lehner
+Category2,80,166,Jake Padberg V
+Category1,32,189,Norman Bogan-Stracke
+Category2,49,111,Ethel Kunde
+Category1,12,146,Roland Dibbert
+Category2,22,150,Santos Torphy
+Category1,57,190,Mr. Cody Walker
+Category2,77,169,Shelly Leuschke
+Category1,99,167,Juana Douglas V
+Category2,9,146,Mr. Noel Armstrong
+Category1,39,111,Dan O'Reilly
+Category2,50,151,Lena Armstrong
+Category1,78,129,Duane Connelly
+Category2,14,184,Esther Brekke
+Category1,24,178,Greg Gusikowski
+Category2,83,189,Tom Hagenes
+Category1,66,131,Vincent Windler
+Category2,86,190,Robert Bradtke
+Category1,30,108,Ramiro Smith
+Category2,83,166,Joey Willms
+Category1,44,153,Terry Fay
+Category2,41,141,Jamie Keeling
+Category1,60,125,Anna Considine
+Category2,21,162,Mr. Gilbert Sanford III
+Category1,8,178,Faith Pollich
+Category2,96,164,Walter Rempel
+Category1,53,178,Mrs. Kathleen Turner
+Category2,75,174,Mr. Cesar Howe
+Category1,48,154,Mrs. Mona Bruen
+Category2,8,146,Dr. Lorenzo Jakubowski
+Category1,40,102,Jessie Labadie
+Category2,67,153,Cesar Thompson
+Category1,82,158,Ernest Wuckert
+Category2,33,192,Dr. Sam Welch
+Category1,13,118,Gilberto Kshlerin
+Category2,87,130,Amelia Stoltenberg
+Category1,3,189,Angelica Howe
+Category2,83,184,Patsy Schiller
+Category1,51,158,Meredith Dicki
+Category2,15,124,Shari Turner
+Category1,100,113,Tricia Schneider IV
+Category2,79,187,Rudolph Zieme
+Category1,46,193,Eileen Kohler
+Category2,30,130,Alonzo Hills
+Category1,70,161,Warren Vandervort
+Category2,41,128,Jeannette Huel
+Category1,46,141,Brittany Denesik
+Category2,85,152,Allen Boehm
+Category1,47,104,Donnie Grady-Walter
+Category2,56,189,Dr. Keith Sanford
+Category1,52,110,Emma O'Hara
+Category2,76,142,Forrest McDermott-Okuneva
+Category1,10,198,Juanita Mraz
+Category2,3,128,Dr. Jerome Hickle
+Category1,98,135,Tracy Ernser
+Category2,77,113,Dr. Alex Gerlach
+Category1,82,175,Bert Hagenes
+Category2,32,140,Molly Kshlerin
+Category1,61,139,Mrs. Yvette Hoeger
+Category2,7,116,Guadalupe Hessel
+Category1,96,180,Dianna Doyle
+Category2,99,165,Irving Lynch
+Category1,85,160,Nichole Bogisich
+Category2,74,114,Melody Wisoky
+Category1,59,143,Lillian Nikolaus
+Category2,43,110,Krista Weimann
+Category1,4,124,Roman Hartmann
+Category2,51,144,Carrie Schuster
+Category1,77,152,Monica Farrell
+Category2,16,139,Frank Rutherford
+Category1,6,190,Ms. Jenna Rogahn
+Category2,4,121,Colleen Reynolds
+Category1,2,165,Kelvin Schaden
+Category2,71,161,Lionel O'Keefe
+Category1,3,198,Jessie Dach
+Category2,77,190,Roger Haag
+Category1,85,194,Sherman Koss
+Category2,59,182,Marvin Bartell
+Category1,18,121,Elaine Reynolds
+Category2,60,151,Forrest Klocko
+Category1,33,116,Sergio O'Reilly MD
+Category2,70,120,Guy Kautzer-Krajcik
+Category1,31,141,Gwen Lesch
+Category2,31,150,Garry O'Kon
+Category1,67,165,Derek Lindgren
+Category2,2,185,Archie Sawayn
+Category1,38,151,Wendy Aufderhar
+Category2,89,167,Dolores MacGyver
+Category1,94,114,Leah Gorczany
+Category2,81,125,Stephanie Homenick
+Category1,91,110,Sonia Collins
+Category2,77,107,Bethany Spencer
+Category1,35,158,Lindsey Barton
+Category2,88,198,Jenny Cronin
+Category1,26,166,Dawn Feeney DDS
+Category2,94,131,Dexter Brekke
+Category1,55,140,Dallas Schultz
+Category2,12,167,Andre Crist
+Category1,10,109,Alonzo Hamill DDS
+Category2,66,148,Evelyn McClure
+Category1,100,180,Betsy Bode
+Category2,97,113,Monique Larkin
+Category1,44,184,Sherman Strosin I
+Category2,97,146,Alberta Schiller
+Category1,47,169,Miss Roberta Hermiston DVM
+Category2,53,103,Lynne Kilback
+Category1,10,173,Felix Konopelski
+Category2,96,160,Tommie Crona
+Category1,82,105,Francis Roberts
+Category2,8,159,Becky Labadie
+Category1,66,104,Andres Heidenreich
+Category2,28,136,Freddie Collier
+Category1,26,148,Daryl Leuschke IV
+Category2,38,184,Sandra Wuckert
+Category1,9,120,Johnathan Fay
+Category2,42,157,Alexis Boehm
+Category1,86,138,Tamara Bosco
+Category2,25,130,Martin Stanton
+Category1,95,200,Duane Stroman
+Category2,64,136,Alfredo Bashirian
+Category1,20,165,Louis Hagenes
+Category2,87,105,Bethany Tromp
+Category1,45,159,Colin Deckow
+Category2,67,157,Boyd Keeling
+Category1,100,144,Mercedes Hickle
+Category2,8,134,Arthur Wiza
+Category1,99,192,Mr. Garrett Osinski
+Category2,4,138,Yolanda Rippin
+Category1,22,155,Mr. Geoffrey Dickinson Jr.
+Category2,86,161,Cristina Windler
+Category1,63,200,Larry Armstrong PhD
+Category2,68,140,Gwendolyn Lebsack
+Category1,8,101,Annette Upton
+Category2,14,146,Brandi Willms
+Category1,88,113,Dr. Margarita Cremin
+Category2,28,124,Walter Mayer
+Category1,62,121,Julie Sauer-Jerde
+Category2,43,115,Adam Sawayn MD
+Category1,79,130,Franklin Fadel-Hamill
+Category2,68,183,Marlon Hand-Greenfelder
+Category1,75,116,Jake Heathcote
+Category2,84,106,Latoya Raynor
+Category1,92,162,Margie Murray
+Category2,96,103,Howard Erdman
+Category1,53,161,Sandy D'Amore
+Category2,53,174,Benny Maggio
+Category1,21,149,Beatrice Jerde
+Category2,44,152,Agnes Veum
+Category1,22,105,Al Bayer
+Category2,13,117,Alfred Mertz
+Category1,24,128,Alberta Wuckert PhD
+Category2,77,141,Edward Fay
+Category1,84,102,Kelley Roberts
+Category2,51,131,Francis Powlowski
+Category1,89,186,Delia Hagenes
+Category2,24,170,Tommie Hansen
+Category1,8,195,Rex Kunze
+Category2,80,164,Nora Kshlerin
+Category1,31,123,Kristin Hills-Feest
+Category2,55,123,Martin Sipes
+Category1,82,154,Jack Franey
+Category2,69,185,Dennis Boehm
+Category1,80,145,Laura McKenzie PhD
+Category2,53,186,Vanessa Oberbrunner
+Category1,98,170,Angelo Hartmann
+Category2,16,102,Paulette Gusikowski
+Category1,33,136,Miranda Schuster
+Category2,5,197,Leland Breitenberg
+Category1,46,154,Mae Keebler
+Category2,18,157,Dale Heathcote
+Category1,43,113,Latoya Ziemann DDS
+Category2,11,124,Joe Mayert
+Category1,9,176,Mrs. Elisa Schuster
+Category2,14,165,Perry Kassulke
+Category1,54,200,Ms. Antonia Hessel
+Category2,80,115,Israel Aufderhar
+Category1,46,193,Max Metz
+Category2,96,174,Mattie Emard
+Category1,20,134,Meghan Upton
+Category2,99,130,Benny Gulgowski
+Category1,5,134,Annette Marvin
+Category2,41,123,Denise Gulgowski
+Category1,18,182,Gina Smitham
+Category2,5,179,Mr. Roland Doyle
+Category1,6,152,Hector Anderson I
+Category2,35,109,Spencer Franecki
+Category1,96,190,Nicole Rogahn Sr.
+Category2,11,176,Jesus Hane
+Category1,34,188,Alicia Feil
+Category2,16,177,Della Fritsch DDS
+Category1,87,183,Sean Koss
+Category2,26,135,Emily Windler
+Category1,58,157,Mr. Alvin Lesch
+Category2,61,119,Flora Bernhard MD
+Category1,65,199,Dr. Nick Braun
+Category2,33,126,Dr. Renee Marquardt
+Category1,57,194,Marian Heller
+Category2,7,198,Ms. Suzanne Olson
+Category1,14,129,Dustin Lynch
+Category2,46,156,Ryan Stark
+Category1,88,150,Mrs. Shawna Pfeffer PhD
+Category2,33,104,Dorothy Kautzer III
+Category1,11,125,Rene Howe
+Category2,14,156,Winston Aufderhar-Kris DDS
+Category1,44,149,Andrea Shanahan
+Category2,1,118,Carrie Kuvalis
+Category1,78,145,Mr. Dallas Gulgowski
+Category2,86,115,Devin Waelchi-Kshlerin
+Category1,10,155,Brooke Muller
+Category2,60,118,Orlando Dibbert
+Category1,4,166,Stacey Waelchi
+Category2,98,143,Boyd Klein
+Category1,15,156,Dr. Saul Bosco
+Category2,9,109,Paulette Wisoky
+Category1,39,193,Amanda Feeney
+Category2,89,167,Ms. Phyllis Toy II
+Category1,31,116,Hubert Boyle
+Category2,34,171,Marc Runolfsdottir Jr.
+Category1,90,117,Mr. Luis Ankunding
+Category2,53,146,Kathleen Kunze
+Category1,83,101,Rosemary Rohan
+Category2,87,184,Rafael Schaden
+Category1,85,182,Dr. Jim Hirthe
+Category2,92,103,Loretta Schmeler
+Category1,75,143,Ann Schultz
+Category2,83,167,Miss Daisy Johns
+Category1,14,115,Brandi Ritchie
+Category2,5,181,Miss Lorene Hackett
+Category1,33,115,Kirk Koss
+Category2,25,135,Wilma McClure
+Category1,90,142,Daisy Watsica-Bosco
+Category2,41,191,Myra Hilpert
+Category1,65,154,Pat Toy
+Category2,45,146,Darren Schroeder
+Category1,2,184,Phil Windler V
+Category2,20,171,Bridget Kohler
+Category1,19,146,Shawna Mohr
+Category2,59,200,Chester Kovacek
+Category1,81,109,Diane Hayes
+Category2,45,162,Wanda Terry-Kozey
+Category1,44,153,Jeremy Doyle-Lockman
+Category2,69,142,Janis Trantow
+Category1,49,105,Antoinette Dickinson
+Category2,39,155,Jay Simonis
+Category1,5,175,Shannon Bins Sr.
+Category2,62,191,Herbert Walker
+Category1,27,195,Tyrone Lesch
+Category2,55,126,Francisco Hilll
+Category1,1,160,Tyler Schuppe-Langosh
+Category2,41,197,Brent Dare
+Category1,64,185,Marc O'Conner
+Category2,91,114,George Hodkiewicz DDS
+Category1,32,111,Mr. Marcos Hahn DDS
+Category2,55,150,Chris Murazik
+Category1,55,159,Kirk Botsford
+Category2,49,163,Jody Jacobi
+Category1,34,187,Dr. Wilbert Kuhn V
+Category2,46,188,Naomi Shields
+Category1,63,153,Mike Lemke
+Category2,66,142,Audrey Botsford
+Category1,71,128,Denise Schulist DVM
+Category2,35,193,Jill Keebler
+Category1,26,192,Dexter Fahey MD
+Category2,25,146,Casey Walker
+Category1,33,110,Dustin Hintz
+Category2,27,123,Shawn Altenwerth
+Category1,81,104,Abraham Lehner
+Category2,6,181,Charlene Volkman
+Category1,64,159,Miss Francis Koepp II
+Category2,13,180,Otis Ledner
+Category1,67,159,Ida MacGyver
+Category2,22,132,Terrell Shields
+Category1,6,184,Marianne Langosh-Hessel
+Category2,7,124,Ebony Berge
+Category1,73,112,Nancy Gulgowski
+Category2,52,121,Mr. Nathan Rogahn
+Category1,1,144,Sonia Treutel
+Category2,21,173,Elijah Schaefer
+Category1,5,199,Anne Goldner
+Category2,50,165,Sheldon Mitchell
+Category1,74,132,Dr. Myrtle Farrell
+Category2,86,101,Megan Runolfsson
+Category1,38,179,Beatrice Toy
+Category2,30,180,Louis Wolf Jr.
+Category1,79,141,Mack O'Keefe
+Category2,34,180,Alfredo Feil
+Category1,21,193,Jeannie Rogahn
+Category2,2,138,Samuel Daniel
+Category1,64,113,Genevieve Franey
+Category2,9,144,Dr. Maureen Simonis
+Category1,51,176,Dr. Kenny Fisher
+Category2,75,163,Christina Schmeler
+Category1,86,113,George Prosacco
+Category2,65,102,Mrs. Lynette Wisoky
+Category1,62,130,Christina O'Keefe
+Category2,4,157,Gary Price
+Category1,30,185,Leslie Marks
+Category2,84,189,Dr. Allen Bahringer
+Category1,63,193,Darnell Watsica
+Category2,50,162,Janis Dickens V
+Category1,71,149,Deanna Goodwin
+Category2,90,169,Whitney Abshire
+Category1,71,104,Bradley Cruickshank
+Category2,90,196,Mr. Ronald Von
+Category1,96,102,Cody Terry
+Category2,48,149,Ora Rolfson
+Category1,83,135,Dr. Stacy Franey
+Category2,52,177,Jan Abshire
+Category1,65,184,Roxanne Powlowski
+Category2,23,170,Gwen Dicki
+Category1,41,102,Monique Barton
+Category2,43,175,Saul Heaney
+Category1,12,118,Shane Welch
+Category2,4,159,Hope Mante
+Category1,82,169,Geneva Spinka-Sporer
+Category2,34,117,Bill Zieme
+Category1,75,133,Eunice Ziemann
+Category2,36,170,Dr. Gilberto Nikolaus
+Category1,8,175,Rogelio Greenfelder
+Category2,51,130,Kelvin Barton
+Category1,82,127,Kirk Rau
+Category2,53,195,Timothy Blick-Hickle
+Category1,49,139,Louis Marquardt II
+Category2,72,161,Joan Mayer
+Category1,17,105,Elizabeth Barrows
+Category2,79,128,Charlotte Huels
+Category1,31,170,Terry Denesik
+Category2,67,197,Jeff Daugherty
+Category1,24,180,Wendy Kemmer
+Category2,98,135,Jonathan Dickens
+Category1,68,134,Richard Zemlak
+Category2,81,179,Salvatore Satterfield
+Category1,14,113,Jane Walter Jr.
+Category2,87,121,Myron Boehm-Lang
+Category1,26,181,Kate Dare
+Category2,33,150,Saul Feil
+Category1,60,108,Mr. Christopher O'Hara V
+Category2,92,133,Doug Paucek
+Category1,51,114,Mr. Kyle Hermiston
+Category2,88,141,Patti Ullrich
+Category1,63,102,Mack Yundt
+Category2,90,169,Manuel Gislason
+Category1,27,124,Ethel Crona
+Category2,39,188,Shawna Leannon
+Category1,89,129,Marsha Hudson
+Category2,89,189,Theodore Stanton
+Category1,22,148,Freda Heaney
+Category2,62,156,Dorothy Collier II
+Category1,11,147,Derek Zboncak V
+Category2,56,120,Marty Borer
+Category1,3,176,Tara Bosco
+Category2,56,192,Rosie Schmidt
+Category1,69,126,Tom Nitzsche
+Category2,5,124,Shaun Stamm II
+Category1,78,141,Mamie Doyle
+Category2,97,191,Kristi Veum
+Category1,99,129,Brent West
+Category2,51,143,Miss Jackie Thompson IV
+Category1,61,188,Bridget Stanton
+Category2,24,174,Rene Reilly
+Category1,24,142,Lola Collins
+Category2,65,197,Sherri Schulist
+Category1,68,177,Rufus Sanford
+Category2,58,166,Ronnie Franey
+Category1,63,161,Roberto Brakus
+Category2,80,191,Terry Harvey
+Category1,69,152,Colleen Rutherford
+Category2,20,157,Gordon Dooley
+Category1,2,191,Gilbert Veum
+Category2,86,175,Stephen Walter
+Category1,97,102,Catherine Halvorson
+Category2,78,113,Tammy Crist
+Category1,16,135,Kim Hammes
+Category2,56,187,Renee Gulgowski-Oberbrunner
+Category1,2,173,Ora Moore
+Category2,35,158,Agnes Hickle
+Category1,66,115,Tomas Fadel-Rippin
+Category2,72,165,Rosa Braun
+Category1,21,133,Darrell Ziemann Sr.
+Category2,1,140,Miss Bonnie Hyatt
+Category1,17,166,Josh Hayes
+Category2,8,193,Jo Streich
+Category1,62,194,Mr. Julio Maggio
+Category2,59,135,Dr. Michele Beier
+Category1,20,182,Byron Wuckert
+Category2,97,195,Mr. Bruce Hintz
+Category1,31,136,Melanie Bins
+Category2,47,137,Rosemary Zieme
+Category1,60,166,Mr. Clay Metz
+Category2,49,145,Gail Shanahan
+Category1,96,108,Mattie Raynor
+Category2,86,101,Stuart Jacobi
+Category1,15,119,Leo Bogan
+Category2,42,191,Sheri DuBuque
+Category1,14,134,Edwin Kunde
+Category2,1,173,Fannie Beatty
+Category1,7,114,Alexis Kassulke
+Category2,67,150,Laverne Kohler-Grimes
+Category1,53,132,Ignacio Shanahan DDS
+Category2,68,140,Carroll Hahn
+Category1,12,200,Rosalie Hoppe
+Category2,95,168,Corey Abshire
+Category1,37,145,Heidi Stark
+Category2,3,112,Elijah Dare
+Category1,7,154,Estelle Rosenbaum
+Category2,68,109,Pearl Heidenreich
+Category1,14,113,Dr. Archie Balistreri
+Category2,31,169,Wilfred Buckridge
+Category1,90,185,Kelly Ullrich
+Category2,77,125,Edith Hamill
+Category1,9,114,Janis Zieme
+Category2,99,163,Randy Breitenberg
+Category1,8,199,Heather Pacocha III
+Category2,44,164,Frederick Nolan-Lubowitz
+Category1,73,177,Hugh Abernathy
+Category2,64,179,Kristin Shields
+Category1,86,118,Nicolas Altenwerth
+Category2,96,132,Allison Stiedemann
+Category1,23,150,Marcus Medhurst-Kuhic
+Category2,74,195,Virgil O'Reilly
+Category1,10,188,Albert Schmeler
+Category2,54,138,Lula Boyle IV
+Category1,35,132,Amos Zboncak
+Category2,42,174,Lena Zieme
+Category1,87,184,Henry Murphy
+Category2,15,141,Daisy Welch
+Category1,23,128,Rachael Brekke
+Category2,26,107,Sam Mayert
+Category1,94,127,Dale Kutch
+Category2,31,198,Earnest Bruen
+Category1,47,127,Phillip Rath
+Category2,58,178,Doris D'Amore
+Category1,93,106,Sherri O'Kon
+Category2,95,182,Archie Bayer
+Category1,49,169,Emilio Strosin
+Category2,97,156,Kristie Dibbert
+Category1,54,168,Jackie Mann-Zulauf
+Category2,89,190,Timothy Harber
+Category1,54,135,Domingo Batz
+Category2,83,107,Willard Nader
+Category1,93,124,Russell Ledner
+Category2,33,178,Georgia Murazik V
+Category1,27,145,Rhonda Purdy
+Category2,75,119,Cindy Klein
+Category1,21,180,Herbert Okuneva
+Category2,21,189,Jacqueline Brakus
+Category1,25,113,Ms. Anne Block
+Category2,98,179,Yvonne Gulgowski
+Category1,83,130,Mr. Shannon Kohler
+Category2,89,169,Harry Franey
+Category1,6,193,Elsa Murazik
+Category2,80,178,Blake Johnson
+Category1,39,196,Marsha Collins
+Category2,34,157,Manuel Auer
+Category1,99,200,Dr. Leslie Marks
+Category2,77,173,Mr. Rodney O'Connell
+Category1,61,130,Nicholas Hartmann I
+Category2,89,195,Dr. Sheldon Swift
+Category1,98,163,Helen Stiedemann-Gleason
+Category2,56,196,Tom Grimes
+Category1,61,107,Ginger Prosacco
+Category2,93,163,Jenna Streich
+Category1,3,128,Jared Leffler Sr.
+Category2,28,138,Miss Penny Pouros
+Category1,74,176,Toni Wehner
+Category2,49,156,Chris Auer
+Category1,25,176,Dr. Phyllis Larkin
+Category2,98,141,Israel Walter PhD
+Category1,12,145,Johnnie Wintheiser
+Category2,20,108,Kristie Gottlieb
+Category1,95,192,Isabel Goodwin
+Category2,46,188,Mr. Stephen Rodriguez
+Category1,37,194,Priscilla Gislason
+Category2,67,158,Gilbert Dietrich Jr.
+Category1,79,196,Mrs. Wanda Harris
+Category2,74,162,Carroll Quitzon
+Category1,6,101,Miss Tasha Ondricka
+Category2,85,177,Dr. Adrian Krajcik
+Category1,81,116,Beulah Greenfelder
+Category2,27,125,Kerry Spencer
+Category1,95,138,Gloria Stroman III
+Category2,69,176,Pablo Pagac
+Category1,34,193,Drew Keebler
+Category2,91,135,Dallas Fahey
+Category1,73,134,Dennis Emard
+Category2,17,135,Elisa Swift
+Category1,96,116,Beatrice Romaguera
+Category2,89,112,Donald Bergstrom Sr.
+Category1,45,116,Casey Hauck
+Category2,36,140,Vincent Langworth
+Category1,51,185,Mrs. Krista Schuppe
+Category2,40,126,Arlene Kertzmann
+Category1,80,150,Myrtle Koepp
+Category2,19,173,Everett Doyle
+Category1,91,174,Francis Schinner
+Category2,9,124,Walter Ortiz
+Category1,40,102,Anne King
+Category2,82,175,Lola Hahn
+Category1,45,108,Forrest Swift
+Category2,35,106,Diane Brekke
+Category1,87,137,Homer Robel
+Category2,8,185,Benjamin Olson
+Category1,91,135,Hugh Mayer I
+Category2,50,159,Tomas Franey
+Category1,72,177,Kristina Johnston
+Category2,63,180,Erica Haag
+Category1,20,159,Jenny Mann
+Category2,70,179,Phillip Schmidt-Steuber
+Category1,93,110,Mr. Amos Schiller
+Category2,37,173,Rick Will
+Category1,12,177,Kristopher Jenkins
+Category2,83,114,Leslie Sporer-Franey
+Category1,1,124,Jasmine Rosenbaum
+Category2,83,109,Shelia Hudson
+Category1,33,114,Lola White II
+Category2,86,147,Gerard Bailey
+Category1,3,106,Fredrick Toy-Daugherty
+Category2,21,149,Cody Beatty
+Category1,9,185,Billy Jerde
+Category2,63,140,Dr. Marilyn Jerde
+Category1,14,167,Dr. Malcolm Kunze
+Category2,47,125,Dr. Tim Turcotte
+Category1,22,104,Loren Daugherty
+Category2,83,120,Drew Stroman
+Category1,70,160,Maryann Crona
+Category2,47,164,Charlotte Streich-Steuber
+Category1,21,170,Ms. Amelia Auer
+Category2,4,200,Jeffrey Murray
+Category1,7,101,Fernando Monahan
+Category2,21,138,Gayle Parisian
+Category1,75,142,Loretta Jacobi
+Category2,53,180,Wilma O'Conner
+Category1,51,138,Leroy Hodkiewicz
+Category2,90,170,Francisco Cormier
+Category1,34,146,Sonia Flatley
+Category2,28,160,Claude Cronin
+Category1,97,179,Laurence Buckridge
+Category2,42,172,Mack Blanda IV
+Category1,52,126,Andy Wolff
+Category2,21,126,Desiree Oberbrunner
+Category1,16,118,Salvatore Moen
+Category2,82,174,Ethel Collins
+Category1,14,200,Dr. Garry Vandervort
+Category2,27,151,Garry Rippin
+Category1,43,105,Claudia McGlynn-Carter
+Category2,56,174,Dr. Vincent Ryan DVM
+Category1,98,109,Peggy Emmerich
+Category2,83,155,Elena McDermott
+Category1,41,183,Glenda Kiehn
+Category2,26,147,Gloria Zulauf
+Category1,3,150,Kimberly Stroman
+Category2,55,130,Dolores Morissette
+Category1,40,155,Margarita Beatty
+Category2,99,152,Mrs. Elaine Waters I
+Category1,1,144,Robert Langosh
+Category2,72,113,Mario Zulauf
+Category1,44,184,Janice Kemmer
+Category2,61,182,Marc Satterfield
+Category1,28,144,Shelly Nicolas MD
+Category2,8,198,Linda Ziemann
+Category1,80,159,Amber Kessler
+Category2,19,117,Miss Leah Koelpin
+Category1,21,187,Jaime Beer
+Category2,31,178,Brendan Sanford
+Category1,19,150,Miss Elaine Emmerich
+Category2,48,130,Miss Kendra Skiles
+Category1,76,198,Robin Douglas
+Category2,50,137,Matt Bergnaum
+Category1,74,160,Lawrence Kub
+Category2,25,152,Nichole Metz
+Category1,97,163,Lena Zemlak
+Category2,95,171,Conrad Runolfsdottir
+Category1,76,103,Dr. Ginger Reilly
+Category2,80,147,Justin Leannon III
+Category1,96,147,Lance Wiegand
+Category2,70,150,Sergio Keeling
+Category1,26,131,Dr. Eduardo Steuber
+Category2,26,105,Ellen Hackett
+Category1,93,159,Jasmine Becker
+Category2,18,148,Ida Monahan
+Category1,92,144,Marcus Bogisich
+Category2,2,199,Kristin Grimes
+Category1,16,167,Johnny Huels
+Category2,49,199,Sergio Emard
+Category1,48,164,Rafael Swaniawski
+Category2,2,116,Loretta Grimes MD
+Category1,48,177,Renee Quitzon
+Category2,72,161,Essie Dietrich-Sanford
+Category1,49,179,Janice Lynch
+Category2,75,150,Howard Kemmer
+Category1,99,151,Shelly Stiedemann
+Category2,32,180,Lionel Stokes PhD
+Category1,24,176,Judy Luettgen
+Category2,68,193,Lorena Auer
+Category1,97,199,Michael Tromp
+Category2,63,199,Allison Schmitt
+Category1,81,195,Miss Karen Hoeger V
+Category2,11,129,Clayton Ruecker
+Category1,28,157,Sylvia Fay
+Category2,35,119,Sheri Abbott
+Category1,3,200,Courtney Heller
+Category2,80,150,Vera Harvey
+Category1,97,141,Desiree Gislason
+Category2,89,141,Suzanne Hodkiewicz
+Category1,70,177,Jack Hills
+Category2,85,103,Dr. Alan Rosenbaum
+Category1,54,131,Monica Botsford
+Category2,77,194,Percy Jaskolski
+Category1,25,125,Tami Carroll
+Category2,96,109,Wilfred Skiles
+Category1,74,154,Whitney Jakubowski
+Category2,75,114,Bradford Auer
+Category1,77,144,Austin Von
+Category2,78,158,Casey Wolf
+Category1,23,174,Dr. Andre Nicolas
+Category2,55,129,Mr. Dana Bechtelar
+Category1,95,167,Sally Lind
+Category2,9,102,Lloyd Yost
+Category1,55,165,Angelo Grimes
+Category2,68,188,Angel Kling
+Category1,60,145,Dr. Felipe Nolan
+Category2,88,163,Ida Okuneva
+Category1,71,105,Paula Roob I
+Category2,71,103,Wilma Kub-Feeney
+Category1,95,194,Faye Schuster DVM
+Category2,26,164,Drew Emmerich
+Category1,95,119,Terry Veum-Renner PhD
+Category2,64,185,Dr. Irene Pfannerstill
+Category1,79,145,Miss Casey Ortiz DDS
+Category2,50,122,Shaun Bechtelar
+Category1,79,193,Rickey Ruecker
+Category2,36,156,Eunice Vandervort
+Category1,82,106,Virginia Ward
+Category2,67,175,Catherine Bailey
+Category1,89,126,Dana Jast
+Category2,47,107,Brent Daniel
+Category1,89,119,Sherri Considine
+Category2,35,199,Sammy Bruen
+Category1,91,119,Lola Kozey
+Category2,74,103,Vanessa Upton
+Category1,71,106,Larry Doyle
+Category2,79,135,Paula Friesen IV
+Category1,87,121,Muriel Nitzsche
+Category2,60,163,Lauren Maggio
+Category1,79,156,Karen Adams DVM
+Category2,79,105,Carmen Nitzsche
+Category1,91,113,Laura Satterfield
+Category2,53,106,Sherri Pacocha
+Category1,83,108,Doyle Jacobi
+Category2,77,144,Joan Grimes
+Category1,80,160,Sadie Predovic
+Category2,51,108,Mr. Owen McCullough
+Category1,25,141,Dr. Luis Mosciski
+Category2,56,169,Mr. Wilson Bailey
+Category1,47,191,Dan Miller
+Category2,54,111,Rudy Collier
+Category1,52,123,Doreen Bogan
+Category2,12,188,William McDermott
+Category1,23,141,Dr. Franklin Kub
+Category2,82,148,Lydia Kessler
+Category1,20,182,Lynda Okuneva
+Category2,20,151,Mr. Irving Walter-Heaney II
+Category1,53,192,Betsy Zulauf
+Category2,61,175,Lucy Weber
+Category1,89,121,Mrs. Margaret Okuneva Jr.
+Category2,15,180,Edith Parisian
+Category1,50,189,Courtney Kihn II
+Category2,24,108,Archie Treutel
+Category1,47,181,Bobbie Jenkins
+Category2,78,102,Judith King
+Category1,77,134,Elizabeth Koch
+Category2,9,160,Dewey Swift-Ondricka
+Category1,39,144,Abel Schmitt
+Category2,46,186,Ellis Bartell
+Category1,23,189,Gregory Dicki
+Category2,87,120,Joe Wilkinson
+Category1,90,113,Karla Gorczany
+Category2,67,145,Eula Kozey
+Category1,43,135,Tommie Lakin
+Category2,41,106,Mindy Stamm
+Category1,22,167,Patricia Lueilwitz
+Category2,56,151,Jonathan O'Reilly
+Category1,3,142,Mrs. Marian Daugherty
+Category2,61,155,Harvey Schuster
+Category1,45,122,Fannie Abbott
+Category2,47,190,Bill Mohr
+Category1,13,173,Clara Gulgowski
+Category2,41,127,Jodi Zemlak
+Category1,84,144,Tracy Gulgowski
+Category2,56,103,Marty Jones Jr.
+Category1,42,160,Marco Ankunding
+Category2,74,137,Doreen Kuphal V
+Category1,65,199,Mr. Abel Purdy
+Category2,61,114,Opal Kuhic
+Category1,99,167,Brandy Kirlin
+Category2,35,171,Josefina Rau
+Category1,4,161,Blanca Jacobson
+Category2,38,172,Jill Stanton
+Category1,6,194,Jimmie Padberg
+Category2,33,173,Tracy Cruickshank
+Category1,93,151,Luther Reichel
+Category2,2,171,Julius Heathcote
+Category1,33,129,Dr. Eugene Thompson
+Category2,13,116,Shane Maggio
+Category1,69,199,Dennis Morissette
+Category2,76,119,Noah Barton
+Category1,31,198,Nina Cummings
+Category2,68,159,Andy Grant
+Category1,76,189,Cameron Kub
+Category2,67,173,Carol Runolfsson
+Category1,30,197,Max White
+Category2,48,175,Melba Breitenberg
+Category1,7,177,Melba Abernathy
+Category2,50,129,Florence Macejkovic
+Category1,85,115,Lois Veum
+Category2,10,133,Janet Rath
+Category1,14,161,Alicia Grimes-Graham
+Category2,74,136,Darlene Kutch
+Category1,11,125,Mrs. Hilda McDermott
+Category2,4,176,Nellie Beatty
+Category1,47,153,Peggy Nolan-Koss
+Category2,74,156,Cynthia Botsford V
+Category1,40,178,Carroll Marks
+Category2,51,192,Rosie McDermott
+Category1,75,182,Marilyn Gutmann IV
+Category2,37,168,Hugh Casper
+Category1,3,130,Ellis Champlin
+Category2,74,146,Kirk Frami
+Category1,47,101,Larry Ritchie
+Category2,74,155,Jordan Borer
+Category1,41,156,Ralph Steuber
+Category2,45,159,Gayle Prosacco
+Category1,18,167,Dallas Braun
+Category2,31,102,Micheal Dickens
+Category1,43,196,Evelyn Pfannerstill
+Category2,48,111,Dr. Toby Stamm
+Category1,42,124,Bridget Boyle
+Category2,10,184,Kirk Hessel
+Category1,41,198,Dan Tromp
+Category2,69,151,Ginger Trantow
+Category1,27,197,Darin Hickle
+Category2,41,189,June Crist
+Category1,55,118,Crystal Schamberger
+Category2,62,160,Annie Graham MD
+Category1,69,194,Mrs. Erin Doyle
+Category2,17,200,Dr. Nicolas Rowe
+Category1,56,129,Ricky Block
+Category2,47,199,Willis Dach
+Category1,60,101,Loren Rogahn
+Category2,80,146,Miss Inez Morar
+Category1,82,105,Bert Gislason
+Category2,80,171,Sam Lubowitz I
+Category1,41,197,Ramona Maggio
+Category2,81,185,Marion Hudson
+Category1,82,188,Miguel Koepp MD
+Category2,82,110,Dr. Beatrice McClure
+Category1,74,187,Leslie Bode
+Category2,36,143,Herbert Marvin DDS
+Category1,90,171,Trevor Brown
+Category2,14,112,Harvey Kerluke
+Category1,62,107,Terrence Lebsack
+Category2,60,177,Eula McCullough
+Category1,57,114,Alvin Boyer
+Category2,88,165,Glenn Mayert
+Category1,86,138,Shane Jacobi
+Category2,96,142,Jacqueline Cartwright
+Category1,57,136,Ron Nicolas
+Category2,52,187,Tommy Franey
+Category1,22,131,Mr. Terrence Crona
+Category2,62,131,Devin Huels
+Category1,18,182,Joy Haley
+Category2,85,122,Lee Connelly
+Category1,62,137,Dr. Andrew Kohler
+Category2,1,167,Ellen Hansen
+Category1,36,180,Vicky Moore
+Category2,96,197,Merle Hills III
+Category1,41,190,Gregory Kemmer DVM
+Category2,49,134,Everett Kuvalis-Wilkinson
+Category1,41,151,Megan Heidenreich
+Category2,99,174,Roderick Ledner
+Category1,52,195,Flora Bashirian
+Category2,67,137,Doris Kub
+Category1,97,158,Aubrey Erdman DVM
+Category2,88,157,Forrest Fay
+Category1,83,117,Ernesto Stehr
+Category2,59,174,Joyce Lesch
+Category1,57,178,Gertrude Howe
+Category2,11,188,Loretta Treutel
+Category1,46,117,Nellie Kuhn
+Category2,83,103,Irvin Paucek
+Category1,41,171,Marc Cummerata MD
+Category2,43,126,Regina Heaney
+Category1,87,108,Mr. Julio Beer
+Category2,31,177,Rufus Morar
+Category1,31,180,Bernard Leffler
+Category2,70,187,Manuel Hansen
+Category1,22,186,Samantha Ankunding
+Category2,84,158,Kari Langosh III
+Category1,58,117,Arnold Morissette V
+Category2,21,107,Olivia Bartell
+Category1,96,160,Mike Koepp
+Category2,62,159,Gwen Gulgowski
+Category1,4,123,Irma Weissnat
+Category2,43,144,Jay Volkman DDS
+Category1,15,172,Ginger Fritsch
+Category2,9,173,Ignacio Huel
+Category1,58,167,Johnny Pagac
+Category2,15,161,Erik Schultz
+Category1,51,143,Mrs. Tara Runte
+Category2,47,108,Sonia Grimes PhD
+Category1,19,172,Dr. Elmer Bergnaum
+Category2,58,170,Clara Bosco
+Category1,5,103,Jody Streich V
+Category2,26,121,Carla Purdy II
+Category1,88,102,Philip Breitenberg
+Category2,61,182,Tamara Macejkovic
+Category1,51,183,Miss Beverly VonRueden
+Category2,54,121,Willie Gutkowski
+Category1,77,199,Mathew Rippin
+Category2,27,106,Mr. Cesar Feil IV
+Category1,79,158,Robert Gutmann DDS
+Category2,50,141,Sharon Effertz
+Category1,29,126,Mrs. Tara Swaniawski
+Category2,99,103,Dr. Alexander Smith
+Category1,15,131,Evan Schneider
+Category2,35,122,Madeline Muller IV
+Category1,40,111,Nancy Hudson
+Category2,37,134,Mr. Laurence McCullough
+Category1,80,197,Claude Rice-Vandervort
+Category2,43,133,Hugo Lakin
+Category1,92,180,Theodore Schowalter
+Category2,96,153,Johnnie Carroll
+Category1,58,197,Mrs. Anna Lesch
+Category2,31,137,Lucy Goldner
+Category1,97,139,Wilfred Bradtke
+Category2,4,197,Phil Jacobs-Kunze
+Category1,6,129,Dr. Bryant Herzog
+Category2,100,129,Brent Zemlak
+Category1,68,167,Miss Rachel Ryan V
+Category2,41,125,Roberta Douglas
+Category1,43,144,Grady Hagenes
+Category2,65,180,Johnathan Runolfsdottir-Shields
+Category1,61,181,Jody King-Jacobson
+Category2,26,124,Geraldine Douglas
+Category1,1,145,Amelia Konopelski
+Category2,33,174,Jo Crist
+Category1,72,134,Myron Ledner
+Category2,86,108,Angelo Friesen-Douglas
+Category1,59,169,Miguel Swaniawski-Schmidt Sr.
+Category2,39,199,Shannon Stokes
+Category1,50,163,Gregory Batz
+Category2,61,147,Johnny Bruen
+Category1,51,139,Cora Renner
+Category2,1,103,Debbie Howell
+Category1,9,102,Rudy Volkman
+Category2,81,178,Mr. Wilbur Bernier
+Category1,44,108,Jay Altenwerth-Ward
+Category2,58,156,Salvador Rogahn
+Category1,24,127,Leona Padberg
+Category2,47,139,Neil Boyle
+Category1,57,179,Tyler Jerde
+Category2,72,106,Nora Mraz
+Category1,90,180,Desiree Satterfield
+Category2,59,102,Jonathon Pfannerstill
+Category1,55,119,Ms. Teri Jakubowski
+Category2,91,196,Greg Carroll
+Category1,87,109,Francisco Langosh
+Category2,36,132,Miss Blanca Schultz IV
+Category1,77,154,Darin Gulgowski-Simonis
+Category2,54,133,Israel Morar
+Category1,63,101,Julia Botsford
+Category2,92,196,Mike McGlynn Jr.
+Category1,59,168,Samantha Nicolas
+Category2,11,130,Greg Romaguera
+Category1,52,186,Wilson Rosenbaum
+Category2,99,161,Courtney Stiedemann MD
+Category1,30,111,Tiffany Beahan
+Category2,47,184,Kenneth MacGyver
+Category1,47,154,Rene Renner
+Category2,33,195,Evelyn Wisoky
+Category1,56,136,Nora D'Amore
+Category2,36,155,Otis Senger-Steuber
+Category1,22,154,Mr. Gary Yost
+Category2,14,156,Darin Fritsch
+Category1,68,139,Ismael Schiller
+Category2,59,169,Francis Zieme
+Category1,66,114,Donna Murphy
+Category2,34,172,Jacqueline Marquardt
+Category1,27,109,Ida Raynor IV
+Category2,7,125,Janis D'Amore
+Category1,62,177,Monica Langworth
+Category2,35,198,Sandy Block
+Category1,7,119,Dana Kemmer
+Category2,2,197,Richard Tromp
+Category1,21,114,Kerry Rutherford
+Category2,70,115,Mr. Anthony Dickinson
+Category1,99,191,Pedro VonRueden
+Category2,29,133,Gregory Zboncak
+Category1,9,130,Joshua Torp
+Category2,86,199,Guadalupe Cassin
+Category1,39,187,Matt Auer
+Category2,78,139,Kristopher Brekke
+Category1,11,136,Andre Reilly
+Category2,8,114,Carolyn Pollich
+Category1,44,148,Colleen Howe
+Category2,96,121,Israel White
+Category1,93,128,Ernesto Greenfelder
+Category2,56,116,Tiffany Rosenbaum-McClure
+Category1,29,123,Antoinette Kohler
+Category2,34,105,Ricardo Ryan V
+Category1,13,105,Johanna Hudson
+Category2,25,138,Cheryl Christiansen
+Category1,10,139,Emma Nicolas
+Category2,53,181,Cora Gerhold
+Category1,3,122,Archie Bauch
+Category2,30,169,Hattie Stark
+Category1,11,134,Yolanda MacGyver
+Category2,83,126,Jordan Effertz
+Category1,39,160,Tyrone Robel
+Category2,40,155,Alton Blick
+Category1,60,102,Lucia Pfannerstill
+Category2,13,157,Lois Flatley
+Category1,10,155,Jeannie Schinner
+Category2,7,132,Kara McClure
+Category1,5,107,Dr. Hubert Beier
+Category2,66,140,Francisco Hessel
+Category1,96,166,Mary Oberbrunner
+Category2,3,151,Guillermo Nicolas
+Category1,75,107,Antonia Wuckert
+Category2,94,126,Pat Thompson-Fritsch
+Category1,49,108,Franklin Rodriguez
+Category2,56,176,Desiree Rowe
+Category1,67,106,Rosa Schimmel II
+Category2,52,175,Ms. Julia Graham
+Category1,67,172,Kayla Reynolds
+Category2,44,109,Saul Romaguera
+Category1,66,176,Sergio Leuschke
+Category2,34,170,Lester Feest
+Category1,93,126,Hattie Zemlak
+Category2,40,190,Ervin Nitzsche
+Category1,44,116,Beatrice Boehm DDS
+Category2,78,195,Dr. Clark West
+Category1,50,180,Dr. Donna Wilkinson
+Category2,83,121,Kay Okuneva
+Category1,28,190,Julian Bauch
+Category2,40,139,Neil Mertz
+Category1,17,104,Max Mills
+Category2,17,139,Della Klein
+Category1,43,156,Miss Rachael Feest
+Category2,9,101,William Gleichner
+Category1,58,166,Flora Greenholt
+Category2,62,146,Peter Crooks
+Category1,66,166,Roger Spinka
+Category2,58,180,Leo Prosacco
+Category1,83,119,Ella Ankunding DDS
+Category2,40,154,Christy Schaden
+Category1,60,136,Hannah Purdy
+Category2,34,122,Dr. Jeremiah Spencer
+Category1,60,123,Joseph Rogahn
+Category2,86,102,Delores Bode
+Category1,73,172,Cristina Reichel
+Category2,52,142,Rufus Langosh
+Category1,86,137,Dr. Edmund Reinger
+Category2,98,143,Anna Murray
+Category1,29,116,Freddie McGlynn
+Category2,22,102,Noel Zemlak
+Category1,43,129,Colleen Hagenes
+Category2,62,124,Bobbie Renner
+Category1,48,190,Naomi Considine
+Category2,68,153,Rita Satterfield
+Category1,1,111,Herman Conn
+Category2,63,106,Mrs. Angelina McKenzie
+Category1,50,186,April Marquardt MD
+Category2,23,180,Rosie Dach
+Category1,56,106,Marguerite Robel I
+Category2,82,154,Lynette Veum
+Category1,92,150,Mable Kozey
+Category2,2,185,Craig Hamill
+Category1,96,134,Jeanette Kutch
+Category2,61,106,Carrie Schamberger
+Category1,52,133,Clayton Franey I
+Category2,18,114,Paulette Schiller
+Category1,7,110,Jared Jenkins
+Category2,79,130,Billie Raynor IV
+Category1,50,182,Claire Hilll
+Category2,9,194,Myrtle Rempel
+Category1,49,136,Mae Sipes
+Category2,7,131,Dr. Josh Kuhic
+Category1,99,144,Dr. Sophia Baumbach V
+Category2,10,112,Charles Gulgowski
+Category1,40,183,Noah Gibson
+Category2,88,173,Juanita Mayert
+Category1,4,138,Annette Oberbrunner
+Category2,57,168,Homer McCullough
+Category1,76,184,Laurence Ruecker
+Category2,71,127,Stella Kuphal
+Category1,7,134,Michael Bauch
+Category2,91,114,Gordon Altenwerth
+Category1,45,136,Evelyn Flatley
+Category2,29,117,Jay Steuber
+Category1,2,135,Cristina Bartell MD
+Category2,87,127,Don Nicolas
+Category1,50,184,Paulette Kessler DVM
+Category2,10,127,Kelly Hayes
+Category1,53,134,Maggie Bashirian
+Category2,62,140,Aubrey Feeney
+Category1,75,102,Kim Moen
+Category2,51,132,Bob Leannon MD
+Category1,68,137,Clayton Sporer
+Category2,5,179,Mr. Aaron Bahringer II
+Category1,54,125,Dr. Lora Daugherty
+Category2,40,130,Emma Rodriguez
+Category1,31,129,Dennis Okuneva
+Category2,96,134,Shelly Walsh
+Category1,77,166,Tanya Nitzsche I
+Category2,59,142,Luke Nitzsche
+Category1,25,109,Beth Osinski
+Category2,32,115,Theresa Jenkins
+Category1,22,102,Doug Weber
+Category2,13,173,Dr. Phil Schuppe
+Category1,67,185,Sherry Gottlieb
+Category2,67,180,Kelley Bergnaum IV
+Category1,81,126,Marion Dickens
+Category2,99,175,Raquel Douglas
+Category1,27,101,Dr. Sheila Stokes
+Category2,79,198,Bertha Daniel
+Category1,38,156,Miss Brooke Blanda II
+Category2,45,192,Dr. Reginald Brakus
+Category1,79,110,Evelyn Herman
+Category2,33,162,Vera Watsica
+Category1,99,154,Mrs. Darlene Lebsack
+Category2,13,175,Miss May Johns
+Category1,97,153,Amber Morissette
+Category2,60,123,Ms. Pat Hoppe
+Category1,98,191,Megan Pfannerstill
+Category2,80,138,Clark Kreiger
+Category1,70,177,Maurice Metz
+Category2,7,103,Ryan Brown
+Category1,95,180,Nathaniel Morar
+Category2,44,175,Cora Haley
+Category1,50,160,Timothy Ratke
+Category2,68,141,Percy Kris
+Category1,70,148,Taylor Nicolas
+Category2,52,180,Lorene Ledner
+Category1,18,194,Velma Paucek
+Category2,94,159,Ralph Swaniawski
+Category1,75,138,Johnnie Bednar
+Category2,43,137,Nelson Daniel PhD
+Category1,4,197,Shawna Spencer
+Category2,60,148,Ronnie McClure
+Category1,97,119,Alison Schroeder
+Category2,34,122,Charlene Heaney
+Category1,98,195,Floyd Buckridge V
+Category2,38,151,Melba Becker
+Category1,2,200,Sherry Paucek
+Category2,23,168,Erma Abbott
+Category1,19,148,Marshall Price
+Category2,49,127,Elena Gusikowski
+Category1,9,153,Leona Kohler-Hessel
+Category2,86,188,Arlene Padberg Sr.
+Category1,28,165,Miguel Powlowski
+Category2,45,126,Elbert Waelchi
+Category1,63,120,Carrie Beahan
+Category2,55,147,Shirley Durgan
+Category1,62,134,Gail Kemmer-Stark
+Category2,14,130,Jackie Osinski III
+Category1,6,152,Stacey Cruickshank
+Category2,6,165,Tamara Bednar
+Category1,88,119,Glenn Ryan
+Category2,15,189,Milton Russel
+Category1,94,167,Shawna Rath
+Category2,92,176,Irene Daugherty
+Category1,43,183,Jody Towne
+Category2,47,176,Sheri Harber-Bechtelar
+Category1,87,138,Maureen Schmeler
+Category2,42,139,Calvin Bernier
+Category1,25,172,Heather Wunsch
+Category2,11,199,Mr. Herman Brekke
+Category1,10,163,Tiffany Donnelly
+Category2,77,105,Leah Kiehn
+Category1,28,180,Kristine Mayert
+Category2,26,143,Tracey Bosco V
+Category1,46,175,Lawrence Kassulke
+Category2,17,127,Mr. Jonathan Stokes
+Category1,62,200,Hattie Conn
+Category2,84,169,Rudy Olson
+Category1,74,119,Carroll Jacobi
+Category2,63,165,Kelley Mohr
+Category1,62,175,Ora Powlowski
+Category2,62,129,Jeffrey Effertz
+Category1,49,114,Leo Ankunding
+Category2,36,199,Peggy Kuhic
+Category1,55,103,Elaine Kris
+Category2,24,151,Phil Ankunding
+Category1,21,144,Yvette Swift
+Category2,85,143,Dr. Marlon Bartoletti
+Category1,85,130,Conrad Deckow
+Category2,32,132,Kate Haley
+Category1,21,139,Sheldon Jones
+Category2,20,158,Leigh Mueller
+Category1,82,124,Nina Kunde
+Category2,37,163,Antonia Legros
+Category1,65,138,Billy Emard
+Category2,15,140,Anita Reichel
+Category1,58,176,Ervin Moen I
+Category2,38,116,Merle Spinka
+Category1,63,112,Jasmine Murazik
+Category2,50,134,Miss Eleanor Halvorson
+Category1,65,108,Yolanda Schaefer
+Category2,17,178,Dr. Steve Rogahn
+Category1,63,117,Rufus Boyle
+Category2,27,171,Shelley Cormier
+Category1,8,125,Lyle White
+Category2,61,157,Jan Langworth
+Category1,58,177,Dallas Hackett Sr.
+Category2,14,158,Dr. Fred Wilderman
+Category1,38,165,Celia Cremin-Hudson
+Category2,39,112,Malcolm Effertz
+Category1,32,153,Brad Bosco-Homenick
+Category2,25,117,Nina Crona-Langosh
+Category1,1,165,Chris Stroman
+Category2,81,136,Enrique Ferry Sr.
+Category1,66,119,Dr. Spencer Cole Jr.
+Category2,50,105,Bradford Moen Jr.
+Category1,87,114,Chelsea Ziemann DVM
+Category2,78,124,Seth Torphy
+Category1,24,194,Darnell Stoltenberg
+Category2,15,109,Dr. Neil Feil
+Category1,61,140,Nelson Marquardt
+Category2,61,124,Carla Prohaska
+Category1,45,191,Dr. Edwin Lakin
+Category2,58,159,Margie Hintz I
+Category1,62,102,Juan Satterfield
+Category2,7,166,Pearl Cormier
+Category1,94,112,Mr. Harvey Donnelly
+Category2,90,114,Annette Dickens
+Category1,35,149,Rufus Reichel
+Category2,69,183,Roberta Kreiger
+Category1,98,194,Miss Priscilla Bechtelar
+Category2,87,187,Katherine Hyatt
+Category1,47,105,Louise Weber
+Category2,80,160,Judy Bartoletti
+Category1,69,111,Margarita Veum
+Category2,46,190,Kristine Grant
+Category1,5,105,Kyle Lueilwitz
+Category2,7,141,Molly Murray
+Category1,19,102,May Kozey
+Category2,24,167,Johnnie Barton
+Category1,88,119,Byron Wisoky
+Category2,1,170,Jamie Flatley
+Category1,83,105,Stephanie Schuppe
+Category2,27,124,Cary Lang
+Category1,18,190,Josh Jacobi
+Category2,41,175,Dr. Elijah Kerluke
+Category1,72,193,Clint Connelly
+Category2,4,154,Edwin Larson MD
+Category1,48,137,Nicolas Pollich
+Category2,48,127,Charlie Von
+Category1,16,188,Eileen Keeling
+Category2,81,147,Larry Wyman
+Category1,28,183,Belinda Nader
+Category2,93,197,Kari Smith
+Category1,59,143,Walter Hauck DVM
+Category2,78,146,Blanche Monahan
+Category1,82,130,Barbara Hodkiewicz
+Category2,68,101,Warren Wyman
+Category1,38,176,Rachel Fahey
+Category2,100,125,Mindy Leffler
+Category1,95,109,Jerry Heller
+Category2,38,119,Mrs. Brandi Corkery
+Category1,100,113,Sylvester Bartoletti
+Category2,45,191,Joey Lindgren-Walker
+Category1,92,142,Lora Cormier DDS
+Category2,48,136,Andre Beatty MD
+Category1,98,176,Edwin Nitzsche
+Category2,42,186,Travis Schoen
+Category1,24,169,Mr. Hugh Dibbert
+Category2,2,180,Ada Beer
+Category1,80,156,Angie Wisozk
+Category2,2,163,Christine Daugherty
+Category1,90,134,Judy Weissnat
+Category2,50,145,Melba Ledner
+Category1,10,123,Dr. Sherman Blick
+Category2,79,128,Miss Silvia Kuhlman
+Category1,99,129,Randolph Wiza
+Category2,62,107,Dr. Grant Cummerata
+Category1,56,174,Maggie Friesen V
+Category2,3,162,Tyrone Lind
+Category1,27,189,Isabel Purdy Jr.
+Category2,67,170,Mr. Julio Rice
+Category1,52,154,Jeffrey Johnson
+Category2,50,160,Tanya Rath
+Category1,70,183,Cindy Prosacco PhD
+Category2,55,134,Rhonda Durgan
+Category1,8,133,Mrs. Megan Windler
+Category2,89,161,Fredrick Kiehn
+Category1,71,114,Marie Schoen
+Category2,70,124,Regina Smith
+Category1,29,173,Kerry Hermann
+Category2,20,147,Stuart O'Hara Jr.
+Category1,84,194,Thelma Frami
+Category2,47,116,Gladys Kunde
+Category1,50,169,Dr. Dustin Nolan
+Category2,34,179,Samuel Schaefer
+Category1,2,128,Roberto Grimes V
+Category2,7,141,Bobbie Nikolaus
+Category1,40,170,Kelly Larkin IV
+Category2,53,153,Omar Conn
+Category1,22,142,Marian Gusikowski
+Category2,9,168,Nichole Goodwin
+Category1,55,168,Darren Batz
+Category2,25,128,Sharon Gerlach
+Category1,89,194,Mamie Sauer
+Category2,61,123,May Tillman
+Category1,26,178,Lena Hintz
+Category2,34,147,Stuart Williamson II
+Category1,38,186,Ms. Lucy Connelly
+Category2,13,176,Betty Daniel Sr.
+Category1,23,181,Jaime Zboncak
+Category2,68,164,Pam Lehner PhD
+Category1,42,157,Susan Littel
+Category2,1,130,Gladys Lindgren
+Category1,51,126,Patty Baumbach
+Category2,28,199,Mamie Gottlieb III
+Category1,58,126,Loren Okuneva
+Category2,49,163,Jack Crist
+Category1,67,186,Arlene Herzog
+Category2,1,183,Jay Mayert
+Category1,90,123,Ella Waters
+Category2,98,175,Bill Schmitt
+Category1,69,128,Lorraine Wiegand
+Category2,75,125,Ida Schimmel
+Category1,86,110,Wade Kirlin
+Category2,76,185,Ida Breitenberg
+Category1,67,157,Jesus Kuhic
+Category2,10,142,Ronald Wilkinson MD
+Category1,81,192,Stewart Herzog
+Category2,82,185,Joyce Wolf
+Category1,23,157,Geoffrey Fadel
+Category2,56,141,Dr. Ryan Kihn
+Category1,19,145,Randolph Kulas
+Category2,1,163,Dr. Kay Mante
+Category1,60,103,Brad Mann
+Category2,95,172,Ramona Lang
+Category1,4,191,Lowell Bergnaum
+Category2,46,107,Gregory King
+Category1,87,194,Janet Tremblay-Stanton
+Category2,77,133,Monique Schmidt III
+Category1,15,189,Jaime Stroman
+Category2,15,190,Adrienne Legros
+Category1,10,144,Dr. Leroy Smith Sr.
+Category2,68,123,Ernesto Prohaska
+Category1,45,174,Joyce Krajcik
+Category2,25,173,Mark McClure
+Category1,59,125,Carol Kiehn
+Category2,73,191,Jennifer McCullough
+Category1,13,158,Monique Kiehn-Keebler
+Category2,3,134,Bernadette Zemlak
+Category1,77,138,Stephen Streich-Champlin
+Category2,21,103,Laura Batz
+Category1,12,174,Delbert Kunze-Macejkovic
+Category2,77,131,Patsy Marvin
+Category1,14,182,Sherry Zieme
+Category2,76,146,Fred Lueilwitz
+Category1,32,166,Nichole Vandervort
+Category2,57,102,Mr. Jose Kozey
+Category1,80,122,Dianna Dicki
+Category2,81,173,Tabitha Hintz DVM
+Category1,8,160,Sadie Jenkins
+Category2,79,103,Ismael Gislason
+Category1,60,160,Marlene Kozey
+Category2,50,170,Lee Franecki
+Category1,94,170,Dr. Lucille Cronin
+Category2,95,163,Mrs. Kelli Ondricka
+Category1,37,199,Deborah Daniel
+Category2,54,112,Silvia Hayes
+Category1,12,158,Spencer Gulgowski Jr.
+Category2,5,196,Shaun Boyer
+Category1,39,127,Antonio Gerlach
+Category2,86,120,Brian Turner-Ziemann
+Category1,45,103,Holly Daniel
+Category2,77,137,Billy Funk
+Category1,95,149,Irvin Bechtelar
+Category2,62,137,Priscilla Homenick
+Category1,48,151,Brandi Pollich
+Category2,45,185,Elena Kreiger
+Category1,73,103,Isaac Nolan
+Category2,29,113,Ella Brekke
+Category1,43,177,Raul Senger
+Category2,3,172,Vincent Lueilwitz
+Category1,65,179,Patsy Collins DDS
+Category2,38,182,Sonya Pfeffer
+Category1,52,142,Mrs. Johanna O'Hara
+Category2,82,183,Molly Hagenes
+Category1,91,149,Johanna Langosh IV
+Category2,78,185,Willard Ernser MD
+Category1,11,138,Orville Roberts
+Category2,8,137,Susan Jaskolski
+Category1,40,105,Mrs. Crystal Sauer
+Category2,32,104,Kimberly Rutherford
+Category1,83,109,Fannie Frami
+Category2,23,161,Gregg Nienow
+Category1,41,171,Pete Thiel
+Category2,97,167,Patty Yundt
+Category1,45,108,Mrs. Della Weimann PhD
+Category2,89,194,Cornelius Bogan
+Category1,23,168,Marco Botsford
+Category2,86,124,Mrs. Denise Wolf
+Category1,62,159,Kate Carter
+Category2,68,102,Tanya Conn
+Category1,17,118,Kimberly Kessler
+Category2,17,190,Dr. Kayla Dach
+Category1,64,168,Kelly O'Connell
+Category2,9,109,Benny Kassulke
+Category1,72,101,Megan Homenick-Murazik III
+Category2,49,192,Dr. Peggy Kohler
+Category1,56,128,Christie Okuneva
+Category2,19,172,Wm Larson
+Category1,74,136,Dr. Greg Barrows
+Category2,57,185,Mr. Randy Nolan
+Category1,51,102,Ada Zboncak
+Category2,14,150,Toni Wolff
+Category1,67,158,Ollie Lindgren
+Category2,29,150,Marcella Spencer IV
+Category1,85,133,Shane Rice
+Category2,34,108,Amelia Robel
+Category1,49,181,Louis Tillman
+Category2,16,144,Raymond Bartell
+Category1,22,142,Clint Spencer
+Category2,22,124,Mr. Robert Little-Torphy
+Category1,64,187,Dianne Reinger
+Category2,7,151,Jeannette Ortiz
+Category1,32,186,Mrs. Marguerite White
+Category2,47,152,Clarence Ryan
+Category1,79,149,Gerard MacGyver
+Category2,58,197,Dave Schimmel
+Category1,90,104,Nina Marvin
+Category2,23,170,Jessie Hansen
+Category1,66,103,Mae Crona
+Category2,74,117,Wilson Corwin
+Category1,60,186,Vera D'Amore
+Category2,98,102,Emmett Altenwerth I
+Category1,46,168,Stella Reichert
+Category2,93,197,Monique Mraz
+Category1,42,135,Reginald Wiegand
+Category2,79,188,Manuel Walter
+Category1,55,199,Opal Cartwright
+Category2,9,118,Doug Crist PhD
+Category1,31,160,Miss Marion Nikolaus
+Category2,93,103,Jon Heidenreich
+Category1,4,167,Manuel Hilll
+Category2,10,107,Carroll Flatley-Harvey
+Category1,86,165,Walter Kassulke IV
+Category2,69,136,Charlene Kling
+Category1,30,124,Mr. Jeffery Blick
+Category2,59,157,Victor Brakus
+Category1,24,142,Dr. Wilbur Hirthe DVM
+Category2,44,146,Nathan Bruen
+Category1,96,104,Shirley Gerlach
+Category2,56,166,Mrs. Diana Kihn
+Category1,41,138,Shelly Kub-Luettgen
+Category2,89,176,Miss Gwendolyn Legros
+Category1,46,102,Karla Dickens
+Category2,84,144,Michelle Barrows
+Category1,21,116,Woodrow Wunsch
+Category2,84,138,Roland Collins
+Category1,12,105,Erick Dibbert
+Category2,22,146,Darrel Wehner
+Category1,29,195,Dr. Madeline Keebler Sr.
+Category2,67,182,Francis Rippin
+Category1,43,191,Elijah Cremin
+Category2,46,159,Doug Armstrong Sr.
+Category1,6,156,Jacquelyn Rosenbaum
+Category2,40,183,Ruben McCullough IV
+Category1,19,165,Meghan Ortiz Jr.
+Category2,85,105,Ira Williamson
+Category1,43,144,Howard Carter
+Category2,6,181,Brendan Hoeger V
+Category1,24,163,Marlon Corwin
+Category2,11,135,Harry Ryan
+Category1,37,136,Mr. Cameron Runolfsdottir
+Category2,89,105,Isabel Bernier
+Category1,60,103,Winston Ritchie
+Category2,50,189,Darlene Wisoky-Gibson
+Category1,46,127,Lori Robel-Stracke
+Category2,57,200,Rafael Dietrich
+Category1,76,119,Miss Jeannette McGlynn
+Category2,8,161,Guy Murazik
+Category1,90,175,Ken Bins
+Category2,88,135,Joseph Wolff
+Category1,95,198,Warren Mueller
+Category2,10,139,Andy Streich Jr.
+Category1,61,164,Mr. Jon Cummings
+Category2,44,105,Mary Schowalter
+Category1,57,107,Wendell DuBuque
+Category2,30,135,Dr. Bridget Zboncak-Glover
+Category1,23,120,Dr. Lester Kuhic II
+Category2,85,156,Mr. Julius Abernathy
+Category1,22,192,Megan Gutmann
+Category2,83,105,Dr. Dominic Boehm
+Category1,42,146,Ken Will
+Category2,94,187,Arturo Pfeffer
+Category1,23,146,Seth Weber
+Category2,13,138,Horace Crooks
+Category1,87,143,Audrey Koelpin
+Category2,7,156,Marco Bins MD
+Category1,29,122,Willis Gleichner
+Category2,52,102,Irvin Schultz
+Category1,56,114,David Hintz IV
+Category2,91,188,Kelvin Huels Jr.
+Category1,92,197,Clayton Stoltenberg DDS
+Category2,99,154,Sabrina Swaniawski
+Category1,37,143,Mr. Neil Bayer
+Category2,93,110,Domingo Quigley-Altenwerth Jr.
+Category1,83,154,Marcia Muller
+Category2,52,176,Sidney Donnelly
+Category1,70,193,Clifton Gerhold V
+Category2,91,131,Antonia Nitzsche
+Category1,25,165,Inez Sporer
+Category2,96,168,Mr. Mike Hammes
+Category1,20,156,Brandy Kerluke Jr.
+Category2,84,179,Mrs. Norma Donnelly
+Category1,61,112,Mr. Leroy Wintheiser
+Category2,34,135,Maggie Kertzmann V
+Category1,90,147,Aubrey Schaden
+Category2,3,172,Miss Geraldine Kautzer-Kovacek
+Category1,84,111,Miss Jamie White
+Category2,16,145,Willis Senger Jr.
+Category1,54,186,Mildred MacGyver
+Category2,95,154,Joanna Streich
+Category1,99,146,Mr. Darren Koss
+Category2,88,119,Diane Smitham IV
+Category1,89,112,Denise Wuckert
+Category2,53,142,Anita Boyer-Schmidt
+Category1,59,166,Pete Erdman
+Category2,20,147,Israel Schiller III
+Category1,97,172,Ruth Bashirian
+Category2,30,150,Ashley Hauck-Vandervort
+Category1,73,153,Ms. Yvette Powlowski
+Category2,5,112,Leticia Blanda
+Category1,32,142,Harold Nitzsche
+Category2,35,164,Garry Lemke II
+Category1,7,148,Jeanne Hessel
+Category2,67,124,Hazel Turcotte
+Category1,7,199,Emanuel Cormier
+Category2,4,192,Heather Senger
+Category1,58,170,Dr. Jonathan Parker
+Category2,50,152,Sheldon Herman
+Category1,49,148,Al Beatty
+Category2,35,189,Dr. Ross Stokes
+Category1,72,120,Bethany Dickinson DDS
+Category2,54,181,Darlene Brakus
+Category1,82,136,Merle Bergnaum
+Category2,66,117,Dianne Lowe
+Category1,72,189,Oliver Torp DVM
+Category2,74,141,Raymond Hilpert
+Category1,70,142,Dr. Darla Gorczany IV
+Category2,10,110,Tami Carroll
+Category1,87,166,Mr. Jim Price
+Category2,34,192,Glenda Altenwerth
+Category1,27,188,Clyde Gutmann-Moore
+Category2,99,104,Sheila Fay
+Category1,93,115,Lorenzo Steuber
+Category2,66,144,Stewart Hettinger II
+Category1,55,144,Armando Schmidt Jr.
+Category2,45,140,Colin Spencer
+Category1,71,121,Janet Carroll
+Category2,10,165,Johnnie Hahn
+Category1,62,151,Brett Rohan
+Category2,45,174,Alfonso Gutkowski
+Category1,2,166,Pat Bayer
+Category2,4,136,Irvin Wyman-Runte
+Category1,16,169,Sharon Flatley Sr.
+Category2,100,195,Ruben Klocko
+Category1,69,161,Taylor Feil
+Category2,72,158,Charlotte Hansen IV
+Category1,48,121,Jessica Heaney
+Category2,64,190,Claudia Reichel
+Category1,80,184,Lyle West
+Category2,74,159,Marion Wilkinson
+Category1,68,160,Dr. Rosa Wisoky
+Category2,100,109,Camille Pfannerstill
+Category1,55,184,Russell Cremin
+Category2,33,179,Hope Smith
+Category1,49,174,Mr. Douglas O'Hara
+Category2,85,174,Marcos Mraz
+Category1,82,144,Elijah Jacobi
+Category2,10,127,Dr. Molly Kihn
+Category1,30,126,Mr. Doug Morar
+Category2,1,193,Joanne Rowe
+Category1,28,141,Noel Kulas
+Category2,41,120,Cheryl Little
+Category1,21,144,Stewart Stroman
+Category2,69,189,Nelson Waters
+Category1,10,158,Guadalupe Waelchi
+Category2,52,173,Angelica Gleason
+Category1,47,166,Bill Miller
+Category2,54,130,Aaron Maggio
+Category1,46,157,Flora Cummerata
+Category2,12,125,Valerie Wiegand
+Category1,14,143,Claude Boyer
+Category2,33,132,Danielle Bechtelar
+Category1,1,106,Roy Wehner-Medhurst
+Category2,35,117,Ralph Zulauf
+Category1,43,145,Charlotte Klein
+Category2,55,162,Owen Deckow
+Category1,80,145,Candice Tillman
+Category2,85,146,Neil Rau
+Category1,63,116,Maryann Aufderhar
+Category2,80,178,Jon Yundt
+Category1,64,158,Mr. Wesley Lehner
+Category2,33,145,Doug Hane
+Category1,55,145,Dr. Phil Frami
+Category2,4,188,Virgil Hoeger
+Category1,42,147,Harold Wunsch
+Category2,42,154,Willard Buckridge
+Category1,33,130,Della Fisher
+Category2,3,126,Mr. Chad Metz
+Category1,99,174,Randall Hayes
+Category2,81,101,Muriel Sauer
+Category1,4,196,Stuart Rutherford
+Category2,21,149,Lee Larkin
+Category1,20,184,Mr. Lyle Stamm
+Category2,89,104,Lauren Nolan
+Category1,81,173,Shawn Beer
+Category2,69,163,Christina Tromp
+Category1,27,179,Julia Jacobs
+Category2,4,197,Brendan Aufderhar
+Category1,92,181,Joy Dare
+Category2,41,175,Jake Tremblay
+Category1,85,116,Melinda Crona
+Category2,53,104,Jan Carter
+Category1,70,149,Melba Heller
+Category2,54,186,Dr. Franklin Heaney
+Category1,1,179,Christina Kessler
+Category2,18,117,Henry Stokes
+Category1,49,132,Doris Schimmel
+Category2,96,104,Yolanda Kuhn
+Category1,98,190,Philip Hintz
+Category2,39,154,Marjorie Blick
+Category1,41,137,Sidney Rodriguez
+Category2,59,130,Jasmine Sawayn
+Category1,98,148,Miranda Herzog
+Category2,24,195,Guadalupe Dietrich
+Category1,51,191,Antonio McKenzie
+Category2,72,182,Jennifer Lindgren Sr.
+Category1,28,195,Dr. Meredith Crona
+Category2,79,101,Brittany Emmerich
+Category1,30,160,Rachael Hickle
+Category2,9,157,Gertrude Gerhold
+Category1,73,131,Johnny Herzog
+Category2,99,104,Eula Johnson
+Category1,28,121,Dr. Ricky O'Hara-DuBuque
+Category2,67,110,Walter Goodwin
+Category1,77,132,Walter Stokes
+Category2,21,170,Judy Hickle
+Category1,75,197,Ms. June King
+Category2,46,167,Dr. Manuel Lebsack
+Category1,27,131,Mr. Jamie Hartmann-Schmeler
+Category2,98,119,Cecil Tillman
+Category1,40,147,Cecilia Kertzmann
+Category2,31,163,Archie Pouros
+Category1,11,103,Curtis Schmitt
+Category2,64,188,Robert Weimann
+Category1,84,148,Cassandra Waelchi
+Category2,92,151,Johnny Reichel Sr.
+Category1,37,128,Suzanne Braun MD
+Category2,86,162,Kay Denesik
+Category1,5,125,Darlene Satterfield
+Category2,7,143,Lillian Fadel
+Category1,14,155,Ms. Rosemary Herzog
+Category2,44,190,Billy Beier
+Category1,90,132,Darrel Brown
+Category2,77,116,Sonja Heller
+Category1,17,143,Arthur Spencer-O'Reilly II
+Category2,33,105,Salvador Roob
+Category1,30,152,Betty MacGyver
+Category2,81,178,Johanna Quitzon DDS
+Category1,7,120,Wayne Braun
+Category2,56,160,Willis Dare
+Category1,18,107,Miss Dora Baumbach
+Category2,30,153,Abraham Cummings
+Category1,81,175,Ida Bayer
+Category2,89,162,Guillermo Fritsch
+Category1,59,129,Tracy Macejkovic-Braun
+Category2,1,176,Michelle Abernathy Jr.
+Category1,95,149,Nicole Yundt
+Category2,34,188,Jo Gulgowski
+Category1,87,185,Dominic Hills Sr.
+Category2,79,134,Jerome Rogahn
+Category1,9,166,Carl Collins DDS
+Category2,64,199,Mack Pollich
+Category1,15,190,Dr. Roger Mayert
+Category2,11,183,Michelle O'Kon
+Category1,50,116,Kathleen Johnson
+Category2,5,113,Muriel Howell
+Category1,13,150,Rodolfo Jacobs
+Category2,71,168,Cary Jaskolski
+Category1,20,186,Laurie Hartmann
+Category2,43,181,Hector Powlowski
+Category1,52,149,Jamie Gerlach Jr.
+Category2,96,198,Blanche Armstrong
+Category1,86,105,Tara Leannon
+Category2,15,161,Leon Monahan
+Category1,66,139,Brittany Rath
+Category2,33,127,Lorene Mayer
+Category1,54,136,Peter Cronin-White
+Category2,21,124,Darlene Terry
+Category1,44,193,Vicky Renner
+Category2,63,121,Miss Kathryn Sanford
+Category1,59,121,Mrs. Nettie Bergnaum
+Category2,95,144,Jody Blick
+Category1,76,157,Lauren Sanford
+Category2,28,141,Angie Nicolas
+Category1,16,190,Sammy Crona
+Category2,99,196,George Stroman
+Category1,59,182,Darrell Senger
+Category2,2,119,Kimberly Renner
+Category1,27,116,Robyn O'Connell
+Category2,12,178,Doug Mills
+Category1,75,188,Erin Klocko I
+Category2,9,181,Beth Cartwright
+Category1,40,112,Stuart Lockman
+Category2,96,145,Dr. Martin Leannon II
+Category1,3,107,Alejandro Jones
+Category2,63,173,Alton Sporer DDS
+Category1,50,120,Alejandro Feeney
+Category2,68,195,Stewart Monahan
+Category1,99,154,Joel Wilkinson-Price
+Category2,20,137,Jacob Mann
+Category1,91,199,Samuel Hamill
+Category2,8,160,Miriam Yost
+Category1,34,143,Russell Gleason
+Category2,1,199,Miss Rachel Bahringer
+Category1,16,109,Al Senger
+Category2,64,115,Gerard Hirthe
+Category1,73,188,Dr. Kelly Gerlach
+Category2,100,173,Tami Mohr
+Category1,85,168,Erika Johnson
+Category2,23,133,Gene Corkery
+Category1,36,121,Brad Wisozk
+Category2,70,101,Jorge Senger
+Category1,52,179,Kate Gusikowski
+Category2,70,131,Rudolph Schumm
+Category1,89,178,Jenny Barrows
+Category2,31,181,Jermaine Bins
+Category1,40,193,Myron Vandervort
+Category2,72,153,Cory Kuvalis
+Category1,40,117,Ross Kuvalis
+Category2,77,101,Sarah Hills
+Category1,13,123,Ms. Brandi Gulgowski
+Category2,53,116,Mr. Brent Lubowitz
+Category1,84,140,Angie Steuber
+Category2,88,160,Hugh Dibbert
+Category1,94,123,Marian Beer
+Category2,3,185,Marlon Murphy V
+Category1,99,128,Candace Mayer
+Category2,84,120,Terrence Jacobs
+Category1,26,139,Irene Goyette-Nolan
+Category2,78,145,Nellie Lowe
+Category1,55,140,Dr. Juanita Bechtelar
+Category2,25,174,Dr. Leslie Predovic
+Category1,71,154,Beatrice Morissette
+Category2,70,200,Miss Elsa Koepp
+Category1,65,109,Frank Medhurst
+Category2,5,194,Garrett Champlin
+Category1,25,170,Mable Cormier
+Category2,30,117,Terry Harvey
+Category1,45,199,Janet Emmerich
+Category2,4,151,Verna Cremin
+Category1,88,183,Noel Harvey
+Category2,15,172,Mrs. Tracey Orn
+Category1,92,161,Brad Kutch
+Category2,32,109,Ernestine Wolff
+Category1,59,135,Jamie Predovic DVM
+Category2,80,151,Dr. Jeffrey Robel
+Category1,42,131,Dawn Kreiger
+Category2,18,123,Nellie Kiehn
+Category1,42,119,Dr. Doug Cole
+Category2,6,107,Stephanie VonRueden
+Category1,4,184,Michele Hagenes-Hermann
+Category2,58,163,Cary Bergnaum
+Category1,22,176,Charlotte Pollich
+Category2,44,184,Cindy Fay
+Category1,61,189,Ryan Heaney
+Category2,73,170,Alma Labadie Jr.
+Category1,81,110,Justin Cassin
+Category2,3,174,Blanca Effertz
+Category1,51,128,Levi Daugherty
+Category2,56,163,Darlene Waters
+Category1,94,115,Anita Ferry
+Category2,98,113,Jordan Ondricka
+Category1,6,183,Nelson Lesch
+Category2,29,109,Joey Conroy
+Category1,21,176,Yvonne Braun
+Category2,90,172,Donald Ankunding
+Category1,11,146,Maxine Zulauf
+Category2,97,186,Mrs. Maryann Windler
+Category1,79,198,Nathaniel Corwin
+Category2,50,189,Hilda Lindgren
+Category1,48,106,Victoria Moore
+Category2,97,200,Eleanor Ferry
+Category1,13,162,Dr. Joy Pacocha
+Category2,19,185,Duane Schaden
+Category1,93,114,Nicolas Altenwerth
+Category2,90,148,Mrs. Eloise Hintz
+Category1,85,129,Nina Borer
+Category2,46,121,Philip Kihn
+Category1,91,194,Walter Reynolds
+Category2,30,182,William Parisian
+Category1,13,104,Peggy Bahringer
+Category2,5,185,Eunice Fay
+Category1,96,115,Regina McCullough
+Category2,84,108,Peggy West
+Category1,69,112,Damon Emard
+Category2,96,132,Jeremiah Kilback
+Category1,41,119,Ivan Gutkowski IV
+Category2,20,163,Mr. Ramiro Torp
+Category1,50,195,Anita Powlowski
+Category2,86,130,Nathaniel Rempel
+Category1,60,150,Jim Herman
+Category2,25,180,Kurt Willms
+Category1,94,173,Kimberly McLaughlin
+Category2,44,167,Alexandra Reinger
+Category1,65,180,Alonzo Bartoletti
+Category2,5,189,Beth Abshire V
+Category1,45,134,Miss Krista Hessel
+Category2,95,177,Leonard Luettgen
+Category1,13,200,Conrad Swaniawski-Stokes III
+Category2,27,175,Dr. Joel Schulist I
+Category1,53,127,Garry Tromp
+Category2,77,179,Dr. Gail Adams
+Category1,30,169,Moses Schinner
+Category2,23,164,Agnes Ebert
+Category1,78,132,Lucille Bernhard Sr.
+Category2,18,153,Rene Goldner IV
+Category1,97,148,Jaime Gislason
+Category2,27,194,Jennifer Hoppe
+Category1,25,126,Jacob Koelpin
+Category2,37,141,Jo Ledner
+Category1,50,187,Mr. Micheal Christiansen
+Category2,66,135,Loretta Lubowitz
+Category1,57,140,Jennifer Powlowski DDS
+Category2,41,196,Wilbur Gulgowski
+Category1,38,109,Lora Moen
+Category2,22,184,Lucy Hane
+Category1,59,167,Jean Waters
+Category2,39,191,Tony Hoppe IV
+Category1,45,144,Alejandro Leffler
+Category2,43,108,Catherine Rodriguez
+Category1,24,143,Roderick Steuber
+Category2,27,102,Jessie Collins
+Category1,15,107,Raul Littel
+Category2,90,112,Tracy Tillman
+Category1,58,189,Derrick Lynch
+Category2,73,192,Tamara Rosenbaum
+Category1,43,104,Reginald Upton IV
+Category2,15,127,Jean Parker II
+Category1,33,122,Elisa Rolfson
+Category2,58,123,Irene Luettgen
+Category1,74,141,Aubrey O'Hara
+Category2,66,168,Karla Volkman
+Category1,69,140,Amanda Volkman
+Category2,31,102,Sandra Smith
+Category1,37,179,Andrew Littel
+Category2,55,120,Dr. Guadalupe Zemlak
+Category1,99,132,Sabrina Robel
+Category2,36,177,Eugene Huel
+Category1,7,135,Miguel Dietrich
+Category2,44,130,Angel Kuhlman
+Category1,86,126,Carroll Kub
+Category2,33,129,Ms. Sharon Deckow
+Category1,21,169,Gerardo Klein
+Category2,34,189,Hannah Bernhard
+Category1,90,117,Kerry Cremin
+Category2,47,171,Mr. Ernesto Jerde
+Category1,43,196,Dr. Manuel Jacobs
+Category2,52,165,Owen Carter
+Category1,78,197,Alvin Heathcote
+Category2,52,186,Julie Rau III
+Category1,39,129,Maurice Glover
+Category2,95,147,Bessie Stamm
+Category1,65,118,Maurice Hills
+Category2,22,145,Billie Dicki
+Category1,76,131,Julia O'Connell
+Category2,85,126,Lillian Stokes
+Category1,95,138,Gregg Thiel
+Category2,58,101,Nellie Walter
+Category1,56,154,Douglas Ullrich
+Category2,38,126,Jennie Lubowitz
+Category1,30,139,Julius Prosacco
+Category2,70,176,Steve Nienow
+Category1,85,110,Dr. Leah Treutel
+Category2,4,184,Terrence Gutmann
+Category1,64,108,Vera Waelchi-Frami III
+Category2,81,143,Robin McLaughlin
+Category1,77,192,Stuart Boehm
+Category2,82,101,Irma VonRueden
+Category1,20,126,Alfred Farrell
+Category2,21,186,Salvador Connelly
+Category1,73,156,Cornelius Crist
+Category2,85,110,Bill Brakus
+Category1,54,160,Audrey Rath
+Category2,60,198,Verna Schumm
+Category1,44,148,Steven Hintz
+Category2,93,161,Rachel Raynor
+Category1,99,130,Wade Doyle
+Category2,45,182,Kristie Reilly
+Category1,28,164,Kent Reichert
+Category2,74,101,Johnnie Kautzer
+Category1,74,194,Yolanda Mayer MD
+Category2,89,200,Marguerite Reilly
+Category1,38,139,Eula Kovacek
+Category2,9,132,Raquel Koss
+Category1,9,152,Jermaine Reynolds
+Category2,46,153,Beverly Koch
+Category1,19,121,Stella Block Jr.
+Category2,38,109,Dewey Jenkins
+Category1,84,139,Angie Gleason
+Category2,90,136,Luis Collier
+Category1,97,160,Blake Runolfsdottir
+Category2,31,132,Vicky Lang
+Category1,77,192,Kara O'Keefe
+Category2,80,155,Ellen Emard
+Category1,15,145,Tabitha Hansen
+Category2,73,132,Donna Little
+Category1,84,148,Mary Donnelly
+Category2,33,125,Dr. Julius Yundt
+Category1,79,111,Diane Bartoletti III
+Category2,44,160,Lyle Will PhD
+Category1,91,157,Mr. Sean Bashirian
+Category2,95,147,Sonja Wuckert
+Category1,100,200,Abel Paucek
+Category2,84,112,Kelly Feil
+Category1,24,155,Glenn Ondricka
+Category2,16,164,Garrett Spencer
+Category1,21,122,Mr. Doyle Langosh
+Category2,9,111,Tracey Gutmann
+Category1,81,126,Marcos Cummings
+Category2,79,137,Sophia Ullrich
+Category1,81,117,Cary Goodwin
+Category2,80,138,Janis Grimes III
+Category1,66,163,Kimberly Haag
+Category2,18,144,Garry Hane
+Category1,76,173,Daisy Runolfsdottir MD
+Category2,58,170,Ginger Kovacek-Rohan
+Category1,80,189,Henrietta Ward
+Category2,87,123,Laura Tromp
+Category1,70,127,Claire Flatley
+Category2,57,171,Dora Hackett
+Category1,79,154,Virgil Marvin
+Category2,57,139,Mr. Travis Stamm-Buckridge
+Category1,22,194,Shawn DuBuque
+Category2,62,167,Faith Rice
+Category1,44,198,Luke Parisian
+Category2,98,112,Shawna Mueller
+Category1,6,153,Dawn Hauck
+Category2,8,172,Dan Johnson
+Category1,5,187,Joann Spencer
+Category2,7,193,Dr. Marcus Miller
+Category1,56,179,Oscar Lakin DDS
+Category2,29,158,Jana Carter
+Category1,19,195,Barbara Cummings
+Category2,86,166,June Stanton
+Category1,75,114,Mr. Nicolas Senger
+Category2,10,126,Teri Monahan
+Category1,82,188,Kathleen Aufderhar
+Category2,5,173,Lora Huels
+Category1,10,166,Estelle Rau
+Category2,6,128,Peter O'Hara
+Category1,95,192,Dr. Gregory Gutmann-Bahringer V
+Category2,17,138,Nora Bechtelar
+Category1,85,143,Jack Bruen
+Category2,80,169,Dr. Jared Kohler-Weissnat
+Category1,9,184,Dustin Rowe
+Category2,97,116,Arthur McDermott
+Category1,56,165,Kara Lindgren
+Category2,36,133,Domingo Satterfield-Stark
+Category1,75,112,Dennis Koch
+Category2,78,200,Sheldon Jakubowski
+Category1,47,117,April Tillman
+Category2,11,153,Esther Jacobson
+Category1,87,180,Rafael Beatty
+Category2,95,132,Forrest Hauck
+Category1,54,186,Charlotte Strosin
+Category2,58,159,Shari Wisozk
+Category1,80,125,Jennie Wisozk
+Category2,40,199,Mr. Nick Monahan
+Category1,30,127,William Littel MD
+Category2,86,194,Rafael Sipes V
+Category1,46,194,Jill Reynolds
+Category2,94,106,Kate Johnston
+Category1,75,143,Dr. Peter Lang-Harber
+Category2,71,112,Pete Anderson
+Category1,57,189,Ramona Padberg
+Category2,26,168,Janet Wolff
+Category1,59,151,Lorraine Bradtke
+Category2,39,186,Ruby Christiansen
+Category1,87,163,Dwight Sawayn
+Category2,78,142,Woodrow Rutherford
+Category1,46,153,Brent Yost
+Category2,73,161,Arturo Halvorson I
+Category1,43,149,Devin Skiles
+Category2,100,136,Karla Rohan
+Category1,24,140,Amelia McClure
+Category2,82,127,Cecilia Swift
+Category1,31,117,Carla Gulgowski
+Category2,52,112,Jeremy Rolfson
+Category1,46,172,Rudy Kshlerin
+Category2,57,133,Darryl Schamberger
+Category1,5,157,Dr. Mona Marquardt
+Category2,75,104,Salvatore Donnelly
+Category1,79,180,Dana Jacobs
+Category2,31,127,Joanne Torphy
+Category1,33,200,Gilberto Stroman
+Category2,75,130,Jerald Greenholt-Beatty
+Category1,11,187,Dr. Ernest Quitzon
+Category2,97,193,Dr. Herman Vandervort-Conn
+Category1,31,121,Carrie Harvey IV
+Category2,80,200,Crystal Senger
+Category1,51,140,Chad Leuschke
+Category2,73,104,Patrick Wyman
+Category1,52,143,Sylvia Nitzsche
+Category2,50,179,Ms. Vivian Grant
+Category1,84,142,Mr. Austin DuBuque
+Category2,11,167,Sheri MacGyver-Will
+Category1,81,174,Mr. Ronnie Leffler
+Category2,70,157,Dolores Grimes
+Category1,67,143,Jack McClure Jr.
+Category2,59,200,John Stehr
+Category1,67,118,Earl Fahey
+Category2,88,150,Mr. Roosevelt Aufderhar
+Category1,64,143,Sandra Daniel
+Category2,97,185,Ms. Erika Runolfsdottir
+Category1,43,143,Shaun Watsica
+Category2,17,166,Shari Stokes
+Category1,37,181,Mrs. Joanne Wilkinson
+Category2,5,108,Betty Rodriguez
+Category1,17,139,Luke Oberbrunner
+Category2,71,113,Joanne Hilll
+Category1,18,138,Rudolph Bailey-Koelpin
+Category2,2,122,Mrs. Meghan McKenzie
+Category1,20,109,Margie Emmerich
+Category2,40,158,Freda Price-Runolfsdottir
+Category1,92,122,Mario Heaney
+Category2,10,180,Beatrice Ziemann
+Category1,58,105,Joanna Koss
+Category2,60,184,Vincent Johns
+Category1,88,107,Douglas Prohaska
+Category2,95,137,Nadine Purdy
+Category1,72,155,Bernard Bechtelar
+Category2,88,138,Mr. Wade Hermann
+Category1,44,185,Bryant Watsica
+Category2,49,105,Roderick Murray
+Category1,75,134,Johnnie Gibson
+Category2,78,161,Luis VonRueden Jr.
+Category1,19,131,Ashley Wintheiser
+Category2,71,175,Rudy Conn
+Category1,48,159,Julia Koch
+Category2,50,133,Dustin Brown
+Category1,23,162,Dr. Arlene Fahey IV
+Category2,15,166,Nick Miller
+Category1,52,154,Shannon Koelpin
+Category2,41,198,Nancy Ledner
+Category1,52,149,Ross Hilll
+Category2,93,180,Randolph Steuber
+Category1,63,195,Mr. Saul Kris
+Category2,92,139,Christy Fisher
+Category1,86,130,Jodi Bayer
+Category2,58,101,Amos Weimann
+Category1,48,184,Patricia Greenfelder
+Category2,74,192,Justin Hyatt
+Category1,46,171,Nellie Hessel
+Category2,39,180,Jake Collier
+Category1,48,166,Felix O'Conner
+Category2,71,192,Kelley Yost
+Category1,19,193,Irene Cronin
+Category2,65,195,Patrick D'Amore
+Category1,29,160,Dr. William Carroll
+Category2,91,129,Ronald Zulauf
+Category1,10,176,Brandon Rutherford
+Category2,39,168,Tony Wolf III
+Category1,87,110,Jo Kling
+Category2,52,148,Melba Hansen
+Category1,88,103,Stacy Wisoky-Wyman
+Category2,44,191,Clifton Borer
+Category1,28,172,Donna Schaden
+Category2,68,142,Gwen Yost
+Category1,92,165,Hector Gerhold II
+Category2,8,198,Agnes Auer
+Category1,55,109,Leah Streich
+Category2,45,123,Dawn Treutel
+Category1,20,138,Teresa Vandervort
+Category2,72,126,Yvonne Schmeler-Bogisich
+Category1,46,111,Miguel Jones
+Category2,95,147,Lila Crooks
+Category1,70,164,Ana Greenfelder
+Category2,87,105,Peter Lynch
+Category1,83,148,Lynne Schultz
+Category2,21,181,Sheryl Miller
+Category1,21,192,Andrea Mueller
+Category2,31,109,Elijah Mitchell
+Category1,23,174,Kelley Pouros
+Category2,54,104,Alfredo Ritchie
+Category1,66,104,Lester Dare
+Category2,31,130,Dr. Harriet Towne
+Category1,53,149,Loretta Simonis IV
+Category2,72,161,Annette Monahan II
+Category1,35,103,Edwin Altenwerth
+Category2,79,178,Delbert O'Kon
+Category1,53,128,Dr. Lindsay Lubowitz MD
+Category2,94,177,Emanuel Spinka
+Category1,14,170,Orville Metz
+Category2,31,189,Craig Kub
+Category1,23,116,Angelina Greenholt
+Category2,68,182,Vanessa Wilkinson
+Category1,62,106,Nichole Stanton
+Category2,34,157,Julian Kreiger
+Category1,43,173,Rodolfo Hand
+Category2,29,132,Sylvia Hickle
+Category1,42,149,Michael West MD
+Category2,29,129,Kay Jerde
+Category1,25,135,Brandy Pacocha
+Category2,89,194,Mr. Shaun Stokes II
+Category1,34,161,Ernestine Jast
+Category2,35,169,Dennis Kessler
+Category1,14,140,Daryl Sanford
+Category2,74,158,Tiffany Denesik
+Category1,90,111,Garry Jast
+Category2,92,115,Emilio Cruickshank
+Category1,43,158,Dr. Julian Ondricka
+Category2,84,188,Gordon O'Kon-Bernhard
+Category1,16,120,Clifford Roberts
+Category2,50,186,Colin Hoppe
+Category1,18,132,Dr. Alan Bahringer
+Category2,18,148,Cassandra Bogisich
+Category1,24,171,Amanda Wiegand
+Category2,92,118,Marilyn Armstrong III
+Category1,26,128,Lucille Lockman
+Category2,88,175,Della Brown
+Category1,97,151,Bobby Koss
+Category2,45,158,Dr. Donald Batz
+Category1,46,158,Ms. Annie Blanda
+Category2,10,179,Stephanie Rau
+Category1,41,175,Anne Koelpin
+Category2,88,135,Abel Wilkinson
+Category1,28,120,Clark Kris DDS
+Category2,78,199,Perry Veum-Stehr
+Category1,16,141,Beth Parisian
+Category2,20,103,Sheldon Douglas Jr.
+Category1,82,183,Shari Donnelly
+Category2,28,163,Kayla Senger
+Category1,72,178,Rodolfo Bogisich
+Category2,12,158,Walter Anderson
+Category1,41,148,Heidi Miller
+Category2,42,154,Angelina Gorczany
+Category1,67,197,Arthur Dietrich
+Category2,61,107,Leonard Parisian
+Category1,82,185,Mr. Johnny Veum
+Category2,13,113,Katherine Beier
+Category1,40,124,Dallas Volkman
+Category2,85,122,Miss Audrey Greenholt
+Category1,47,184,Matt Herzog II
+Category2,76,138,Agnes Ryan
+Category1,22,150,Floyd Gottlieb
+Category2,43,117,Melinda Kutch
+Category1,18,164,Andrea Upton
+Category2,70,180,Colleen Gutkowski
+Category1,71,170,Janet Hagenes I
+Category2,71,127,Tiffany Runte
+Category1,64,159,Johnnie Donnelly
+Category2,49,112,Edward McLaughlin
+Category1,100,196,Andy Gislason DDS
+Category2,75,176,Krystal Reichel
+Category1,87,179,Mrs. Ruby Pollich
+Category2,43,137,Taylor Barrows
+Category1,64,123,Esther Considine
+Category2,89,172,Annette Rosenbaum IV
+Category1,98,159,Spencer White
+Category2,92,194,Allen Okuneva
+Category1,59,152,Cecelia O'Hara
+Category2,25,155,Olive Barrows
+Category1,52,194,Nelson Dickens
+Category2,80,148,Lionel Quitzon
+Category1,51,105,Benjamin Rowe
+Category2,20,114,Cedric Wolff
+Category1,6,115,Santos Bauch
+Category2,45,197,Geoffrey Wilkinson
+Category1,45,141,Pedro Hackett
+Category2,21,147,Dorothy Runte IV
+Category1,80,137,Claire Bednar IV
+Category2,27,119,Gerardo VonRueden
+Category1,19,180,Ellis Welch
+Category2,26,185,Mattie Kovacek
+Category1,53,137,Doreen Bauch
+Category2,28,112,Jeremiah Hettinger
+Category1,1,127,Miss Pam Wuckert
+Category2,99,123,Danny Bechtelar
+Category1,8,124,Wilbur Roob
+Category2,36,158,Angelo Legros
+Category1,56,161,Ron Schowalter
+Category2,2,120,Ashley Pfeffer
+Category1,49,116,Pedro Greenfelder
+Category2,58,163,Katherine Gibson
+Category1,24,144,Mable Nikolaus Sr.
+Category2,37,181,Sue Jaskolski
+Category1,96,192,Roger Stokes
+Category2,62,125,Blake Borer
+Category1,7,163,Faye Mayer
+Category2,80,174,Lance Upton
