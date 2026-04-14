@@ -68,6 +68,7 @@ Enhanced version of BFSMP with:
 **Sensitive attribute: Gender**
 
 **⚙️ Algorithms Covered:**
+
 🔸 2D Case
 BFSMP for fairness-aware range queries
 
@@ -105,11 +106,11 @@ Fair and optimized query range
 
 **📌 Key Features:**
 
-✔️ Fairness-aware query processing
-✔️ Multi-dimensional data handling
-✔️ Efficient search using heuristics
-✔️ Scalable for large datasets
-✔️ Real-world dataset validation
+1. Fairness-aware query processing
+2. Multi-dimensional data handling
+3. Efficient search using heuristics
+4. Scalable for large datasets
+5. Real-world dataset validation
 
 **🛠️ Tech Stack:**
 
