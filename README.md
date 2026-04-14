@@ -2,7 +2,7 @@
 
 **🚀 Overview:**
 
-This project focuses on designing and implementing fairness-aware range query algorithms to reduce bias in data selection. It explores both unweighted and weighted fairness models using efficient search strategies like Best-First Search (BFS) and its optimized variants.
+This project implementing fairness-aware range query algorithms to reduce bias in data selection. It explores both unweighted and weighted fairness models using efficient search strategies like Best-First Search (BFS) and its optimized variants.
 
 The goal is to ensure that query results are balanced across sensitive attributes (e.g., gender) while maintaining efficiency and accuracy.
 
