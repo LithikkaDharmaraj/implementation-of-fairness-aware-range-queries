@@ -22,7 +22,6 @@ Handles fairness in single-attribute queries
 Supports:
 
 ✅ Unweighted fairness
-
 ✅ Weighted fairness
 
 **🔹 BFSMP (Best-First Search Multi-Predicate)**
@@ -39,7 +38,6 @@ Uses:
 Enhanced version of BFSMP with:
 
 ✅ U-threshold pruning (avoids unnecessary exploration)
-
 ✅ Visited set / graph structure (prevents redundant states)
 
 ✅ Range trees for efficient querying
@@ -52,11 +50,9 @@ Enhanced version of BFSMP with:
 
 **🔹 Additional Techniques**
 
-📌 Skyline Queries – for optimal result selection
-
-🌲 Range Trees – for efficient multidimensional range search
-
-⚖️ Fairness Validation – using threshold-based checks
+1. Skyline Queries – for optimal result selection
+2. Range Trees – for efficient multidimensional range search
+3. Fairness Validation – using threshold-based checks
 
 **📂 Dataset Used:**
 
@@ -69,12 +65,12 @@ Enhanced version of BFSMP with:
 1. LIMIT_BAL (credit limit)
 2. AGE
 
-**Sensitive attribute: Gender
-**
-**⚙️ Algorithms Covered:
-**
+**Sensitive attribute: Gender**
+
+**⚙️ Algorithms Covered:**
 🔸 2D Case
 BFSMP for fairness-aware range queries
+
 🔸 3D Case
 IBFSMP for improved performance and fairness
 
@@ -115,16 +111,16 @@ Fair and optimized query range
 ✔️ Scalable for large datasets
 ✔️ Real-world dataset validation
 
-**🛠️ Tech Stack:
-**
+**🛠️ Tech Stack:**
+
 1. Python
 2. NumPy / Pandas
 3. Priority Queues (Heap)
 4. Custom Algorithms (BFS, Heuristics)
 5. Data Structures (Range Trees, Graphs)
    
-**📊 Use Cases:
-**
+**📊 Use Cases:**
+
 1. Bias-free data selection
 2. Fair AI / ML preprocessing
 3. Financial risk analysis
